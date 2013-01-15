@@ -27,6 +27,7 @@ The student will:
 * Configure global system settings (e.g. keyboard config, locale, time-zone);
 * interact with the computer though both the command line and graphical user interfaces;
 * Define and classify software;
+* Given a schematic, create a simple electronic toy;
 * articulate environmental threats to hardware and practice preventative care.
 
 Level 2
