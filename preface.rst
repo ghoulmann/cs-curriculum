@@ -11,6 +11,7 @@ Values
 * Literacy (reading and writing) across the curriculum
 * citizenship
 * Authentic learning and assessment
+* Differentiated Instruction
 
 Domains
 =======
