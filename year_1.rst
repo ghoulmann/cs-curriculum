@@ -38,6 +38,8 @@ The student will:
 * set file and directory permissions;
 * customize the user environment;
 * configure the computer for remote access to the command line and graphic user interface;
+* strategic determine and set a computer hostname;
+* identify the computer's unique network address from the command line (ip address, dhcp);
 * Remotely access the computer and account (with ssh and rdp);
 * install software using package manager;
 * manage software installation, updates, and removal;
