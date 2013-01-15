@@ -51,6 +51,8 @@ The student will:
 * Use the design process to create and issue direct commands to make things happen with technology;
 * identify simple problems that can be solved using programmable tools, toys, or systems;
 * use the design process to solve simple problems with programmable tools, toys, or systems;
+* Set up and configure networking services including DHCP and NTP;
+* Configure localization settings to tailor the user environment to the locale;
 * classify items in simple sets of data.
 
 
