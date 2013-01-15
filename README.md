@@ -19,3 +19,14 @@ To Do
 * add IDE
 * add OS fundamentals
 * add sys admin
+* read an electronic schematic diagram
+* create a series circuit with DC current
+* create a parallel circuit with DC current
+* test a circuit
+* measure resistance with ohm meter
+* measure voltage with volt meter
+* measure current with amp meter
+* given schematic, create a circuit that senses motion, temperature, huminity, etc
+* write a program that reads, processes, stores, and output data sensed from input
+* use a breadboard to integrate components into circuit from schematic
+* use a soldering station to integret component into circuit from schematic
