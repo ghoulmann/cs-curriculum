@@ -15,7 +15,8 @@ The student will:
 * visually identify the components of a computer system;
 * identify and differentiate input and outport ports on computer;
 * connect the physical components of a computer system;
-* Articulate verbally the common functions of an operating system.
+* Articulate verbally the common functions of an operating system;
+* Install an operating system based on technical writing
 
 Level 2
 -------
