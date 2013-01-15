@@ -11,12 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   heading
    preface
-   year_1
-   year_2
-   year_3
-   year_4
 
 Indices and tables
 ==================
