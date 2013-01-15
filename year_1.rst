@@ -10,7 +10,12 @@ The student will:
 * sequence a collection of images conveying a narrative;
 * sequence a collection of images conveying a process;
 * identify and catalog everyday devices that respond to signals and instructions;
-* recite the design process
+* recite the design process;
+* verbally and graphically articulate a definition of a computer system;
+* visually identify the components of a computer system;
+* identify and differentiate input and outport ports on computer;
+* connect the physical components of a computer system;
+* Articulate verbally the common functions of an operating system.
 
 Level 2
 -------
