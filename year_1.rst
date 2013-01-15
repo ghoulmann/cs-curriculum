@@ -16,18 +16,30 @@ The student will:
 * identify and differentiate input and outport ports on computer;
 * connect the physical components of a computer system;
 * Articulate verbally the common functions of an operating system;
-* Install an operating system based on technical writing
+* Install an operating system based on technical writing;
+* Configure global system settings (e.g. keyboard config, locale, time-zone);
+* interact with the computer though both the command line and graphical user interfaces;
+* Define and classify software;
+* articulate environmental threats to hardware and practice preventative care.
 
 Level 2
 -------
 
 The student will:
 
+* manage files, directories, and removeable media;
+* manage users and groups;
+* set file and directory permissions;
+* customize the user environment;
+* manage software installation, updates, and removal;
+* search for software in a repository;
 * create storyboards depicting personal narratives and everyday activities;
 * Use the design process to create and issue direct commands to make things happen with technology;
 * identify simple problems that can be solved using programmable toys;
 * use the design process to solve simple problems with programmable toys;
-* classify items in simple sets of data.
+* classify items in simple sets of data;
+
+
 
 Level 3
 -------
