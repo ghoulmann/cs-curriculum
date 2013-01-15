@@ -1,6 +1,12 @@
 First Year
 ==========
 
+Anchor Texts
+------------
+
+* *CompTIA Linux+ Certification Powered by LPI* (Axzo Press)
+* *Super Scratch Adventures* or *Scratch 1.5* (Badger, Michael)
+
 Level 1
 -------
 
@@ -31,6 +37,8 @@ The student will:
 * manage users and groups;
 * set file and directory permissions;
 * customize the user environment;
+* configure the computer for remote access to the command line and graphic user interface;
+* install software using package manager;
 * manage software installation, updates, and removal;
 * search for software in a repository;
 * create storyboards depicting personal narratives and everyday activities;
