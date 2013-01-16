@@ -69,4 +69,4 @@ The student will:
 * given a set of data, present data in a systematic way;
 * View, control, and kill processes, manage process priority, and load and unload kernel modules;
 * install software from source;
-* create and access a personal code repository using a revision tracking system;
+* create and access a personal code repository using a revision tracking system.
