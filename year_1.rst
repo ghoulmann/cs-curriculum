@@ -8,8 +8,29 @@ Anchor Texts
 * *Super Scratch Adventures* or *Scratch 1.5* (Badger, Michael)
 * *Make: Electronics* (Platt)
 
-Level 1
--------
+Artifacts of Learning (examples)
+--------------------------------
+
+The student will:
+
+* Assemble an ATX computer system
+* Access a computer remotely (command line and GUI)
+* Create an electronic device based on a provide schematic
+* Administer a computer with a network operating system (GNU/Linux)
+* Use the stages of the writing process to produce an assessment of the impact of an innovation on culture
+* Sequence steps in a process
+* Compose an analysis of multiple effects of a single cause
+* Compose an analysis of the causes of a single effect
+* Maintain a nightly journal of substantive responses to nonfiction & fiction reading in the content area
+* Create semantic maps to represent relationships between content
+* Diagram circuits according to convention
+* Accurately enter code in a text-based programming or scripting language
+
+
+Learning Objectives
+-------------------
+
+*Level 1*
 
 The student will:
 
@@ -33,8 +54,7 @@ The student will:
 * analyze a technological innovation and evaluate its impact economic, political, cultural impact.
 
 
-Level 2
--------
+*Level 2*
 
 The student will:
 
@@ -66,8 +86,7 @@ The student will:
 * articulate environmental threats to hardware and practice preventative care.
 
 
-Level 3
--------
+*Level 3*
 
 The student will:
 
