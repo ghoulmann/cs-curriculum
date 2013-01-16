@@ -12,6 +12,7 @@ Values
 * citizenship
 * Authentic learning and assessment
 * Differentiated Instruction
+* Collaboration and networked learning
 
 Domains
 =======
@@ -29,3 +30,5 @@ Throughout the program, the student will achieve objectives in six domains.
         The student will explore, interrogate, and hypothesize about causal relationships between technology and culture.
 * Electronics
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
+* Transition Support
+        The student will explore and contrast post-secondary opportunities in content-related fields.

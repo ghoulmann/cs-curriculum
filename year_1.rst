@@ -28,11 +28,10 @@ The student will:
 * interact with the computer though both the command line and graphical user interfaces;
 * Define and classify software;
 * Given a schematic, create a simple electronic toy;
-* Articulate a community problem that can be solved by computer system;
+* Articulate a community problem or need that can be solved or satisified by computer system;
 * Write a proposal for a computer system that can solve a problem are satisfy a need;
-* Identify, requisition, build a hardware solution with specifications to solve an identified problem;
-* Install and configure a software solution to solve identified problem or satisfy authentic need;
-* articulate environmental threats to hardware and practice preventative care.
+* analyze a technological innovation and evaluate its impact economic, political, cultural impact.
+
 
 Level 2
 -------
@@ -60,8 +59,11 @@ The student will:
 * use the design process to solve simple problems with programmable tools, toys, or systems;
 * Set up and configure networking services including DHCP and NTP;
 * Configure localization settings to tailor the user environment to the locale;
-* classify items in simple sets of data.
-
+* classify items in simple sets of data;
+* use a Web browser to shop competitively for hardware and software components;
+* Identify, requisition, build a hardware solution to determined specifications to solve an identified problem;
+* Install and configure a software solution to solve identified problem or satisfy authentic need;
+* articulate environmental threats to hardware and practice preventative care.
 
 
 Level 3
