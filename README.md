@@ -1,4 +1,4 @@
-In progress
+In progress (python-sphinx, or pip install sphinxl also ReText is a steady rST editor - with preview mode).
 
 1/15 (later): Linux+ exam objectives begin showing up, as do marks of raspberry pi specific procedure. No longer just CAS' work.
 
