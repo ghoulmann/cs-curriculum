@@ -21,27 +21,34 @@ Throughout the program, the student will achieve objectives in six domains.
 * Algorithms
         The student will define the term algorithm and identify authentic uses for algorithms.
 * Programs
-        The student will define the term algorithm and identify authentic uses for algorithms.
+        The student will independently plan, compose, debug, and document software that addresses an authentic purpose for an user or community with something at stake.
 * Data
-        The student will define the term algorithm and identify authentic uses for algorithms.
+        The student will classify, store, retrieve, manipulate, query data sources. (revise to match CAS)
 * Computers
         The student will define the components of a computer and articulate its architecture.
 
-	Correlates to:
+	Correlary Standards, Benchmarks, Objectives:
 
 	* CompTIA (A+, Strata, Linux+ Powered by LPI) learning objectives; 
 	* Cisco IT Essentials learning objectives; 
-	* McRel Benchmarks for Business Education (21 - 30)
+	* `Link McRel Benchmarks for Business Education (21 - 30) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=27>`_
+
 
 * Technology and Culture
         The student will explore, interrogate, and hypothesize about causal relationships between technology and culture.
 
+ 	Correlary Standards, Benchmarks, Objectives:
+
+	* 
+	* 
+
 * Electronics
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
 
-	Correlates to:
+	Correlary Standards, Benchmarks, Objectives:
 
-	* McRel Benchmarks for Engineering Education (Standards 1 - 4)
+	* `Link McRel Benchmarks for Engineering Education (Standards 1 - 4) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=28>`_
+
 
 * Transition Support
         The student will explore and contrast post-secondary opportunities in content-related fields.
