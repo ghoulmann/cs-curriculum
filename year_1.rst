@@ -28,6 +28,10 @@ The student will:
 * interact with the computer though both the command line and graphical user interfaces;
 * Define and classify software;
 * Given a schematic, create a simple electronic toy;
+* Articulate a community problem that can be solved by computer system;
+* Write a proposal for a computer system that can solve a problem are satisfy a need;
+* Identify, requisition, build a hardware solution with specifications to solve an identified problem;
+* Install and configure a software solution to solve identified problem or satisfy authentic need;
 * articulate environmental threats to hardware and practice preventative care.
 
 Level 2
