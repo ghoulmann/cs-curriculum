@@ -23,7 +23,7 @@ Values
 
 Domains
 =======
-Throughout the program, the student will achieve objectives in six domains.
+Throughout the program, the student will achieve objectives in eight domains.
 
 * Algorithms
         The student will define the term algorithm and identify authentic uses for algorithms.
@@ -42,7 +42,7 @@ Throughout the program, the student will achieve objectives in six domains.
 
 
 * Technology and Culture
-        The student will explore, interrogate, and hypothesize about causal relationships between technology and culture.
+        The student will explore, interrogate, and hypothesize about causal relationships between technology and culture [to include public policy, values, economics]
 
  	Correlary Standards, Benchmarks, Objectives:
 
