@@ -25,10 +25,23 @@ Throughout the program, the student will achieve objectives in six domains.
 * Data
         The student will define the term algorithm and identify authentic uses for algorithms.
 * Computers
-        The student will define the components of a computer and articulate its architecture (the relationship between components).
+        The student will define the components of a computer and articulate its architecture.
+
+	Correlates to:
+
+	* CompTIA (A+, Strata, Linux+ Powered by LPI) learning objectives; 
+	* Cisco IT Essentials learning objectives; 
+	* McRel Benchmarks for Business Education (21 - 30)
+
 * Technology and Culture
         The student will explore, interrogate, and hypothesize about causal relationships between technology and culture.
+
 * Electronics
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
+
+	Correlates to:
+
+	* McRel Benchmarks for Engineering Education (Standards 1 - 4)
+
 * Transition Support
         The student will explore and contrast post-secondary opportunities in content-related fields.
