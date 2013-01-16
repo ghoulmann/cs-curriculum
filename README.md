@@ -42,6 +42,7 @@ Whether I'm teaching English or ISM (the program I've described), the 6 producti
 
 We are not entirely open source: we rely on virtual machines extensively, especially for students invested in CompTIA A+ certification. We use one xenserver machine, one esxi box, and one headless virtualbox system (administered via phpvirtualbox). Students are expected to be fluent in creating, modifying, starting, stopping, configuring virtual machines using 2 of the 3 technologies. Note, these servers were built and implemented by students as part of their coursework.
 
+
 Work in Progress
 ----------------
 tools: python-sphinx, or pip install sphinx; also ReText is a steady rST editor - with preview mode).
@@ -58,6 +59,9 @@ see http://creativecommons.org/licenses/by-nc/3.0/ for details.
 
 To Do
 ------
+* Boolean logic (make a truth table?)
+* Effective comments
+* Strategic, programmatic troubleshooting
 * concrete artifacts of learning
 * at collaboration and tools
 * add narrative per year
