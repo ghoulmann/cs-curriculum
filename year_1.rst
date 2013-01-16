@@ -25,6 +25,7 @@ The student will:
 * Create semantic maps to represent relationships between content
 * Diagram circuits according to convention
 * Accurately enter code in a text-based programming or scripting language
+* Visually and verbally articulate the common components of systems (including environment and noise)
 
 
 Learning Objectives
