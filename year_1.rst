@@ -13,19 +13,24 @@ Artifacts of Learning (examples)
 
 The student will:
 
-* Assemble an ATX computer system
-* Access a computer remotely (command line and GUI)
-* Create an electronic device based on a provide schematic
-* Administer a computer with a network operating system (GNU/Linux)
-* Use the stages of the writing process to produce an assessment of the impact of an innovation on culture
-* Sequence steps in a process
-* Compose an analysis of multiple effects of a single cause
-* Compose an analysis of the causes of a single effect
-* Maintain a nightly journal of substantive responses to nonfiction & fiction reading in the content area
-* Create semantic maps to represent relationships between content
-* Diagram circuits according to convention
-* Accurately enter code in a text-based programming or scripting language
-* Visually and verbally articulate the common components of systems (including environment and noise)
+* Assemble an ATX computer system according to authentic specifications;
+* Access a computer remotely (command line and GUI);
+* Create an electronic device based on a provide schematic;
+* Administer a computer with a network operating system (GNU/Linux);
+* Use the stages of the writing process to produce an assessment of the impact of an innovation on culture;
+* Sequence steps in a process;
+* Compose an analysis of multiple effects of a single cause;
+* Compose an analysis of the causes of a single effect;
+* Maintain a nightly journal of substantive responses to nonfiction & fiction reading in the content area;
+* Create semantic maps to represent relationships between content;
+* Diagram circuits according to convention;
+* Accurately enter code in a shell scripting language;
+* Visually and verbally articulate the common components of systems (including environment and noise);
+* Given a shell script, annotate with effective and elaborative comments;
+* Plan, compose, execute, debug a shell script that prompts for input and produces conditional output;
+* Maintain a hardcopy log of changes to a system under her administration;
+* Successfully emulate a computer system and use it to produce a manipulate a filesystem [resize partitions, write partition table].
+* Plan, diagram [according to convention] and create a working electronic circuit using prototyping tools.
 
 
 Learning Objectives
@@ -35,6 +40,8 @@ Learning Objectives
 
 The student will:
 
+* Define *system* and components common to system [including environment and feedback];
+* identify and define the boundary of an everyday system;
 * read and narrate existing storyboards depicting familiar activities;
 * sequence a collection of images conveying a narrative;
 * sequence a collection of images conveying a process;
