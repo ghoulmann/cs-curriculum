@@ -36,7 +36,9 @@ Level 2
 The student will:
 
 * collaborate to determine a "system administrator code of conduct";
+* Independently represent the collaborative process (verbally or visually)
 * escalate privileges;
+* Control read, write, execute file permissions from the command line (mode)
 * manage files, directories, and removeable media;
 * manage users and groups;
 * set file and directory permissions;
@@ -66,7 +68,10 @@ The student will:
 * Identify and articulate similarities between storyboards of everyday activities;
 * Use the design process to plan a linear (non-branching) sequence of instructions;
 * develop and improve a sequence of instructions (write a shell script);
+* Make a file executeable;
 * given a set of data, present data in a systematic way;
 * View, control, and kill processes, manage process priority, and load and unload kernel modules;
 * install software from source;
-* create and access a personal code repository using a revision tracking system.
+* create and access a personal code repository using a revision tracking system;
+* Read flowchart;
+* Given diagramming software, create a flowchart for provided and self-produced program.
