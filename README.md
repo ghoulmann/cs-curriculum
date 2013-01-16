@@ -21,6 +21,7 @@ Unless I get feedback to the contrary
 * GNU/Linux generic - trying to not be raspbian/debian-centric as this document takes shape. It was tough dealing with raspi-config, for example. I had to step back and think in terms of LPI objectives.
 * The power to create, access, and destroy virtual machines is assumed.
 * Within our lab, students have root access over systems providing services they administer. By administering production systems, they get authentic experience. [clearly they do not have admin privs where there're are privacy concerns or safety issues].
+* Note that Raspberry Pi is only mentioned in this document; I assume there's another programmable, open system with the ability to interface flexibly with its environment. I don't know about it. We use the Raspberry Pi because of its features, extensibility, compatibility, flexibility; also, because the mission and message of the Raspberry Pi Foundation is a compelling good.
 
 Context
 -------
