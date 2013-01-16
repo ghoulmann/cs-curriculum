@@ -59,6 +59,7 @@ see http://creativecommons.org/licenses/by-nc/3.0/ for details.
 
 To Do
 ------
+* shell script + AT and cron
 * Boolean logic (make a truth table?)
 * Effective comments
 * Strategic, programmatic troubleshooting
