@@ -21,7 +21,7 @@ Throughout the program, the student will achieve objectives in six domains.
 * Algorithms
         The student will define the term algorithm and identify authentic uses for algorithms.
 * Programs
-        The student will independently plan, compose, debug, and document software that addresses an authentic purpose for an user or community with something at stake.
+        The student will independently plan, compose, debug, and document software that addresses an authentic purpose for a user or community with something at stake.
 * Data
         The student will classify, store, retrieve, manipulate, query data sources. (revise to match CAS)
 * Computers
@@ -39,8 +39,9 @@ Throughout the program, the student will achieve objectives in six domains.
 
  	Correlary Standards, Benchmarks, Objectives:
 
-	* 
-	* 
+	* Place holder.
+	* This is cultural studies.
+	* MD (MSDE) Fundamentals of Technology Curriculum
 
 * Electronics
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
