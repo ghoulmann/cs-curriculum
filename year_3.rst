@@ -18,6 +18,9 @@ The student will:
 * programmatically manipulate 1-dimensional arrays;
 * use and interpret 2-dimensional data structures;
 * use the design process to use 2-dimensional data structures to solve a problem.
+* Survey, contrast, evaluate post-secondary program types within CS/Engineering/Software Studies/Media Studies, etc;
+* Survey, contrast, evaluate technology certification routes, with consideration for experience, learning objectives, career readiness;
+* Evaluate technology sector job opportunities and represent the relationships between skills and marketability verbally or visually
 
 Level 7
 -------
@@ -35,6 +38,7 @@ The student will:
 * Given a problem, independently program a maintainable solution in a text-based language;
 * Independently debug a self-produced program written in a text-based language;
 * Analyze, simplify, and use complex data structures in self-produced programs.
+* Prepare a resume/CV with well-suited career objective and cover letter for a specific audience and purpose.
 
 Level 8
 -------
