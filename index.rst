@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   header
+   heading
    preface
    year_1
    year_2
