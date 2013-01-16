@@ -12,6 +12,10 @@ Contents:
    :maxdepth: 2
 
    preface
+   year_1
+   year_2
+   year_3
+   year_4
 
 Indices and tables
 ==================
