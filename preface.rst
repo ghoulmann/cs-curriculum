@@ -1,8 +1,15 @@
 Preface
 *******
+
+Problem
+=======
+
+It is not enough to equip students to access, consume, and utilize digital tools.
+
 Mission
 =======
-It is not enough to equip students to access, consume, and utilize digital tools; our mission is to empower them participate in the production of a intentionally designed, digital world through systematic and computational thinking and design.
+
+Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking and design.
 
 Values
 ======
@@ -25,13 +32,13 @@ Throughout the program, the student will achieve objectives in six domains.
 * Data
         The student will classify, store, retrieve, manipulate, query data sources. (revise to match CAS)
 * Computers
-        The student will define the components of a computer and articulate its architecture.
+        The student will define the components of a computer system and articulate its architecture.
 
 	Correlary Standards, Benchmarks, Objectives:
 
 	* CompTIA (A+, Strata, Linux+ Powered by LPI) learning objectives; 
 	* Cisco IT Essentials learning objectives; 
-	* `Link McRel Benchmarks for Business Education (21 - 30) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=27>`_
+	* `McRel Benchmarks for Business Education (21 - 30) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=27>`_
 
 
 * Technology and Culture
@@ -43,13 +50,24 @@ Throughout the program, the student will achieve objectives in six domains.
 	* This is cultural studies.
 	* MD (MSDE) Fundamentals of Technology Curriculum
 
-* Electronics
+* Electronic Engineering
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
 
 	Correlary Standards, Benchmarks, Objectives:
 
-	* `Link McRel Benchmarks for Engineering Education (Standards 1 - 4) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=28>`_
+	* `McRel Benchmarks for Engineering Education (Standards 1 - 4) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=28>`_
 
 
-* Transition Support
-        The student will explore and contrast post-secondary opportunities in content-related fields.
+* Post-Secondary Transition Support
+        The student will explore and contrast post-secondary professional and academic opportunities.
+
+* Networks
+	Understand ethernet and internet architecture and protocols; configure and administer network services for an authentic purpose. [placeholder]
+
+	Correlary Standards, Benchmarks, Objectives:
+
+	* CompTIA Network+ and Security+ Learning objectives
+	* CCNA (Cisco) Learning Objectives
+
+
+
