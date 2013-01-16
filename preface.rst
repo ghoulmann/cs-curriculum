@@ -15,7 +15,7 @@ Values
 
 Domains
 =======
-Throughout the program, the student will achieve objectives in five domains.
+Throughout the program, the student will achieve objectives in six domains.
 
 * Algorithms
         The student will define the term algorithm and identify authentic uses for algorithms.
@@ -27,3 +27,5 @@ Throughout the program, the student will achieve objectives in five domains.
         The student will define the components of a computer and articulate its architecture (the relationship between components).
 * Technology and Culture
         The student will explore, interrogate, and hypothesize about causal relationships between technology and culture.
+* Electronics
+        The student will create, test, diagram, and troubleshoot electronic circuits and components.
