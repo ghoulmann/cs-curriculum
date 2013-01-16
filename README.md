@@ -25,21 +25,21 @@ Unless I get feedback to the contrary
 Context
 -------
 
-I'm trying to reflect what our program has turned into over the course of 5 years, and now how its radically changed since August when we started with 1 raspi per child. It is a 2 year program that many students stay in from 8-12th with the use of elective credits. Current class sizes are four students each. We'll serve up to seven per section.
+I'm trying to reflect what our program, called Information Systems Management, has turned into over the course of 5 years, and now how it's radically changed since August when we started with 1 raspi per child. It is a 2 year program that many students stay in from 8-12th with the use of elective credits. Current class sizes are four students each. We'll serve up to seven per section.
 
-When a group started working on code for submission to a real open source community, we realized the power of authentic assessment (not simply project-based). That was five years ago and rippled from our technology courses into our composition program. Something I'm struggling with is how to use Scratch as the powerful learning tool its meant to be, but to create authentic solutions for real users with it. 
+When a group started working on code for submission to a real open-source community, we realized the power of authentic assessment (not simply project-based). That was five years ago and rippled from our technology courses into our composition program. Something I'm struggling with is how to use Scratch as the powerful learning tool its meant to be, but to create authentic solutions for real users with it. 
 
 I am in a nonpublic school that primarily serves urban students with diverse learning styles; many are significantly impacted in the areas of reading and writing. The seed from which I started, the CAS Computer Science Curriculum, aims the first set of objectives for seven-year olds. I've adopted those objectives with our population in mind, and with the recognition that most are in line with accomodations, modifications that are often in place. Note that these earliest objectives are consistent with reading remediation objectives and several English/Language Arts *grade level* objectives.
 
-A recent decision by the state requires all students have a course called "Fundamentals of Technology." It covers systems, the design process, the nature of technology, etc. We're looking at how compatible that system is with our shared value in authentic learning: if we articulate this document effectively, that course could serve as 1 year of this program. Raspis are in place.
+A recent decision by the state requires all students have a course called "Fundamentals of Technology." It covers systems, the design process, the nature of technology, etc. We're looking at how compatible that system is with our shared value in authentic learning: if we articulate this document effectively, that course could serve as 1 year of this program. Raspis are in place in that room now too.
 
 We do not have a computer applications class. We do have a computer graphics and graphic design program.
 
 Many of the students only have access to computing systems in school; others have access with restricted or no Internet access.
 
-Whether I'm teaching English or ISM (our name for the 2 year program I've described), the 6 productivity machines run Ubuntu LTS and a great suite of productivity software and accessibility applications that satisfies their learning styles.
+Whether I'm teaching English or ISM (the program I've described), the 6 productivity machines in the lab run Ubuntu LTS and a great suite of productivity software and accessibility applications that satisfies their learning styles.
 
-We are not entirely open source: we rely on virtual machines extensively, especially for students invested in CompTIA A+ certification. We use one xenserver machine, one esxi box, and one headless virtualbox system (administered via phpvirtualbox). Students are expected to be fluent in creating, modifying, starting, stopping, configuring virtual machines using 2 of the 3 technologies.
+We are not entirely open source: we rely on virtual machines extensively, especially for students invested in CompTIA A+ certification. We use one xenserver machine, one esxi box, and one headless virtualbox system (administered via phpvirtualbox). Students are expected to be fluent in creating, modifying, starting, stopping, configuring virtual machines using 2 of the 3 technologies. Note, these servers were built and implemented by students as part of their coursework.
 
 Work in Progress
 ----------------
