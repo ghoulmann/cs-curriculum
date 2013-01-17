@@ -7,6 +7,8 @@ Anchor Texts
 * *CompTIA Linux+ Certification Powered by LPI* (Axzo Press)
 * *Super Scratch Adventures* or *Scratch 1.5* (Badger, Michael)
 * *Make: Electronics* (Platt)
+* *Student Manual for the Art of Electronics* (Hayes & Horowitz)
+* *The Art of Electronics* (Hill & Horowitz)
 
 Artifacts of Learning (examples)
 --------------------------------
