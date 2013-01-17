@@ -3,10 +3,10 @@ The Order of Things
 * [Heading](heading.rst)
 * [Preface](preface.rst)
 * [Remediation Seminars](prep_sem.rst)
-[Year 1](year_1.rst)
-[Year 2](year_2.rst)
-[Year 3](year_3.rst)
-[Year 4](year_4.rst)
+* [Year 1](year_1.rst)
+* [Year 2](year_2.rst)
+* [Year 3](year_3.rst)
+* [Year 4](year_4.rst)
 
 
 Let's collaborate, please
