@@ -16,6 +16,7 @@ The student will:
 * Speak articulately, confidently authoritatively, and concisely
 * Evaluate sources for authoritativeness, reliability
 * Collaboratively articulate an academic honesty and professional ethics policy
+* Digital consultation: synchronous and asynchronous tools and conventionsy
 
 Digital Literacy
 ----------------
