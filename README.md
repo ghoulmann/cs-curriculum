@@ -1,3 +1,14 @@
+The Order of Things
+-------------------
+[heading.rst](heading.rst)
+[preface.rst](preface.rst)
+[prep_sem.rst](prep_sem.rst)
+[year_1.rst](year_1.rst)
+[year_2.rst](year_2.rst)
+[year_3.rst](year_3.rst)
+[year_4.rst](year_4.rst)
+
+
 Let's collaborate, please
 -------------------------
 
