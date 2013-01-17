@@ -43,7 +43,7 @@ When a group started working on code for submission to a real open-source commun
 
 I am in a nonpublic school that primarily serves urban students with diverse learning styles; many are significantly impacted in the areas of reading and writing. The seed from which I started, the CAS Computer Science Curriculum, aims the first set of objectives for seven-year olds. I've adopted those objectives with our population in mind, and with the recognition that most are in line with accomodations, modifications that are often in place. Note that these earliest objectives are consistent with reading remediation objectives and several English/Language Arts *grade level* objectives.
 
-A recent decision by the state requires all students have a course called "Fundamentals of Technology." It covers systems, the design process, the nature of technology, etc. We're looking at how compatible that system is with our shared value in authentic learning: if we articulate this document effectively, that course could serve as 1 year of this program. Raspis are in place in that room now too.
+A recent decision by the state requires all students have a course called "Fundamentals of Technology." It covers systems, the design process, the nature of technology, etc. [http://mdk12.org/instruction/curriculum/technology_education/index.html] We're looking at how compatible that system is with our shared value in authentic learning: if we articulate this document effectively, that course could serve as 1 year of this program. Raspis are in place in that room now too.
 
 We do not have a computer applications class. We do have a computer graphics and graphic design program.
 
