@@ -1,12 +1,12 @@
 The Order of Things
 -------------------
-* [Heading](./heading.rst)
-* [Preface](./preface.rst)
-* [Remediation Seminars](./prep_sem.rst)
-* [Year 1](./year_1.rst)
-* [Year 2](./year_2.rst)
-* [Year 3](./year_3.rst)
-* [Year 4](./year_4.rst)
+* [Heading](https://github.com/ghoulmann/cs-curriculum/blob/master/heading.rst)
+* [Preface](https://github.com/ghoulmann/cs-curriculum/blob/master/preface.rst)
+* [Remediation Seminars](https://github.com/ghoulmann/cs-curriculum/blob/master/prep_sem.rst)
+* [Year 1](https://github.com/ghoulmann/cs-curriculum/blob/master/year_1.rst)
+* [Year 2](https://github.com/ghoulmann/cs-curriculum/blob/master/year_2.rst)
+* [Year 3](https://github.com/ghoulmann/cs-curriculum/blob/master/year_3.rst)
+* [Year 4](https://github.com/ghoulmann/cs-curriculum/blob/master/year_4.rst)
 
 
 Let's collaborate, please
