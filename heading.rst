@@ -12,8 +12,4 @@ English Teacher
 
 rgoldman@chelseaschool.edu
 
-110 Michigan Avenue NE #F-14
-
-Washington, DC 20017
-
-863.398.9214
+[contact info]
