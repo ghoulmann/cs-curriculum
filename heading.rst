@@ -12,4 +12,6 @@ English Teacher
 
 rgoldman@chelseaschool.edu
 
-[contact info]
+@9_while_9 (Twitter)
+
+[More contact info - placeholder]
