@@ -84,7 +84,7 @@ Throughout the program, the student will achieve objectives in nine domains.
 
 	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
 	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
-	* 
+	* [Placeholder: Critical reading of fiction]
 
 
 
