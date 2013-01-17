@@ -33,3 +33,8 @@ The student will:
 * Word Processor place holder
 * beyond the web, ftp https, irc placeholder
 * Computer assisted diagramming and semantic mapping [placeholder; illustrative example is dia]
+* Navigate the file system
+* File nameing conventions
+* Diagram filesystem hierarchy
+* Differentiate between Save and Save As
+* 
