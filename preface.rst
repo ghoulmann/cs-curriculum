@@ -62,6 +62,13 @@ Throughout the program, the student will achieve objectives in nine domains.
 * Post-Secondary Transition Support
         The student will explore and contrast post-secondary professional and academic opportunities.
 
+	Correlary Standards, Benchmarks, Objectives:
+	
+	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Reading
+	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Writing
+	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Listening
+	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Language
+
 * Networks
 	Understand ethernet and internet architecture and protocols; configure and administer network services for an authentic purpose. [placeholder]
 
