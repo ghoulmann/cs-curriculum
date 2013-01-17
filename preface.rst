@@ -23,7 +23,7 @@ Values
 
 Domains
 =======
-Throughout the program, the student will achieve objectives in eight domains.
+Throughout the program, the student will achieve objectives in nine domains.
 
 * Algorithms
         The student will define the term algorithm and identify authentic uses for algorithms.
@@ -69,6 +69,15 @@ Throughout the program, the student will achieve objectives in eight domains.
 
 	* CompTIA Network+ and Security+ Learning objectives
 	* CCNA (Cisco) Learning Objectives
+
+* Literacy (Reading and Writing)
+	Short narrative goes here.
+
+	Correlary Standards, Benchmarks, Objectives:
+
+	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
+	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
+	* 
 
 
 
