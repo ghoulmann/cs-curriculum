@@ -14,6 +14,7 @@ Contents:
    LICENSE
    heading
    preface
+   prep_sem
    year_1
    year_2
    year_3
