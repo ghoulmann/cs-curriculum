@@ -1,12 +1,12 @@
 The Order of Things
 -------------------
-[heading.rst](heading.rst)
-[preface.rst](preface.rst)
-[prep_sem.rst](prep_sem.rst)
-[year_1.rst](year_1.rst)
-[year_2.rst](year_2.rst)
-[year_3.rst](year_3.rst)
-[year_4.rst](year_4.rst)
+* [Heading](heading.rst)
+* [Preface](preface.rst)
+* [Remediation Seminars](prep_sem.rst)
+[Year 1](year_1.rst)
+[Year 2](year_2.rst)
+[Year 3](year_3.rst)
+[Year 4](year_4.rst)
 
 
 Let's collaborate, please
