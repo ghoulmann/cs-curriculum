@@ -28,7 +28,7 @@ I've never had a pull request. Not exactly sure how modifications and additions 
 
 Unless I get feedback to the contrary
 -------------------------------------
-* Avoid proposing adoption of specific technologies and vendors. [when this doc refers to revision tracking, that will most likely mean git; that won't be explicit because we want the flexibility to use subversion, etc, when the problem calls for a different solution]
+* Wherever possible, avoiding proposing adoption of specific technologies and vendors. [when this doc refers to revision tracking, that will most likely mean git; that won't be explicit because we want the flexibility to use subversion, etc, when the problem calls for a different solution]
 * GNU/Linux generic - trying to not be raspbian/debian-centric as this document takes shape. It was tough dealing with raspi-config, for example. I had to step back and think in terms of LPI objectives.
 * The power to create, access, and destroy virtual machines is assumed.
 * Within our lab, students have root access over systems providing services they administer. By administering production systems, they get authentic experience. [clearly they do not have admin privs where there're are privacy concerns or safety issues].
