@@ -48,7 +48,7 @@ Throughout the program, the student will achieve objectives in eight domains.
 
 	* Place holder.
 	* This is cultural studies.
-	* MD (MSDE) Fundamentals of Technology Curriculum
+	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
 
 * Electronic Engineering
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
@@ -56,6 +56,7 @@ Throughout the program, the student will achieve objectives in eight domains.
 	Correlary Standards, Benchmarks, Objectives:
 
 	* `McRel Benchmarks for Engineering Education (Standards 1 - 4) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=28>`_
+	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
 
 
 * Post-Secondary Transition Support
