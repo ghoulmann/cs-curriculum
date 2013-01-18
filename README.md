@@ -11,6 +11,7 @@ The Order of Things
 * [Independent & Outside Reading](http://badsville.ignorelist.com/moodle/mod/page/view.php?id=115): Collaborative document - please annotate, emend, strikout
 * [Reading the Screen: Supporting video](http://badsville.ignorelist.com/moodle/mod/page/view.php?id=143): Collaborative document - please annotate, add, strikethrough
 * [Curriculum Technology Inventory](https://github.com/ghoulmann/cs-curriculum/blob/master/inventory.rst)
+* [References](https://github.com/ghoulmann/cs-curriculum/blob/master/references.rst)
 
 
 Let's collaborate, please
