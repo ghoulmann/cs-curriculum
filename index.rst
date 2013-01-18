@@ -19,6 +19,7 @@ Contents:
    year_2
    year_3
    year_4
+   authentic
 
 Indices and tables
 ==================
