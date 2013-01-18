@@ -75,6 +75,7 @@ see http://creativecommons.org/licenses/by-nc/3.0/ for details.
 
 To Do
 ------
+* HCI unit and resources
 * shell script + AT and cron
 * Boolean logic (make a truth table?)
 * Effective comments
