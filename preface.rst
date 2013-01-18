@@ -20,7 +20,9 @@ Values
 * citizenship
 * Authentic learning and assessment
 * Differentiated Instruction
-* Collaboration and networked learning
+* Collaboration
+* Networked learning (production-centered; shared purpose; openly networked ([Ito]_ 74)
+
 
 Assumptions
 ===========
