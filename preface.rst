@@ -9,7 +9,8 @@ It is not enough to equip students to access, consume, and utilize digital tools
 Mission
 =======
 
-Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking and design.
+Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking and the complimentary fields of Computer Science, Electrical Engineering, and Information Technology.
+
 
 Values
 ======
@@ -20,6 +21,18 @@ Values
 * Authentic learning and assessment
 * Differentiated Instruction
 * Collaboration and networked learning
+
+Assumptions
+===========
+
+Computer Science is a STEM (science, technology, engineering, math) discipline. Computer Science and Information Technology are complementary subjects (CAS 4).
+
+As defined by Computing at School Working Group (2012):
+
+	Computer Science is a *discipline* that seeks to understand and explore the world around us, both natural and artificial, in computational terms. Computer science is particularly, but by no means exclusively, concerned with the study, design, and implementation of computer systems, and understanding the principles underlying these designs.
+
+	Information Technology deals with the purposeful application of computer systems to solve real-world problems, including issues such as the identification of business needs, the specification and installation of hardware and software, and the evaluation of useability. It the productive, creative and explorative use of technology. (5)
+
 
 Domains
 =======
