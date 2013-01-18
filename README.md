@@ -7,6 +7,9 @@ The Order of Things
 * [Year 2](https://github.com/ghoulmann/cs-curriculum/blob/master/year_2.rst)
 * [Year 3](https://github.com/ghoulmann/cs-curriculum/blob/master/year_3.rst)
 * [Year 4](https://github.com/ghoulmann/cs-curriculum/blob/master/year_4.rst)
+* [On Authentic Learning and Assessment](https://github.com/ghoulmann/cs-curriculum/blob/master/authenitc.rst)
+* [Independent & Outside Reading](http://badsville.ignorelist.com/moodle/mod/page/view.php?id=115): Collaborative document - please annotate, emend, strikout
+* [Reading the Screen: Supporting video](http://badsville.ignorelist.com/moodle/mod/page/view.php?id=143): Collaborative document - please annotate, add, strikethrough
 
 
 Let's collaborate, please
@@ -23,6 +26,8 @@ To work with the existing materials, you need, if I understand what I've done co
 * Python installed
 * Python-sphinx installed
 * basic understanding of reStructuredText syntax.
+
+Please add your name to LICENSE and heading.rst so you're properly credited and protected by the license.
 
 I've never had a pull request. Not exactly sure how modifications and additions will be incorporated, but I can find out very quickly.
 
