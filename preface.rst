@@ -46,7 +46,9 @@ Throughout the program, the student will achieve objectives in nine domains.
 
  	Correlary Standards, Benchmarks, Objectives:
 
-	* Place holder.
+	* [Fiction reading objectives]
+	* [Nonfiction (essay) reading objectives]
+	* [non-print text reading objectives (film, multimedia)]
 	* This is cultural studies.
 	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
 
