@@ -21,6 +21,7 @@ Contents:
    year_4
    authentic
    inventory
+   references
 
 Indices and tables
 ==================
