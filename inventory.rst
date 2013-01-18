@@ -2,6 +2,12 @@ Prospective Curriculum Technologies
 -----------------------------------
 
 * Agile Development
+* Bugzilla
+* docuwiki
+* mediawiki
+* python-sphynx
+* reStructuredText
+* Markdown
 * SCRUM Development
 * GNU/Linux
 * Subversion
