@@ -18,10 +18,10 @@ Values
 * Contructivist pedagogy
 * Literacy (reading and writing) across the curriculum
 * citizenship
-* Authentic learning and assessment
+* Authentic learning and assessment [narrowly defined; distinguished from project & performance-based assessment]
 * Differentiated Instruction
 * Collaboration
-* Networked learning (production-centered; shared purpose; openly networked ([Ito]_ 74)
+* Networked learning (Ito 74)
 
 
 Assumptions
@@ -29,7 +29,7 @@ Assumptions
 
 Computer Science and Electrical Engineering are STEM  disciplines (science, technology, engineering, math). Computer Science and Information Technology are complementary subjects (CAS 4).
 
-As contrast by the Computing at School Working Group in 2012,
+As contrasted by the Computing at School Working Group in 2012,
 
 	Computer Science is a *discipline* that seeks to understand and explore the world around us, both natural and artificial, in computational terms. Computer science is particularly, but by no means exclusively, concerned with the study, design, and implementation of computer systems, and understanding the principles underlying these designs.
 
@@ -92,7 +92,6 @@ Throughout the program, the student will achieve objectives in nine domains.
 
 	* CompTIA Network+ and Security+ Learning objectives
 	* CCNA (Cisco) Learning Objectives
-
 
 
 
