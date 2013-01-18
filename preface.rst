@@ -9,7 +9,7 @@ It is not enough to equip students to access, consume, and utilize digital tools
 Mission
 =======
 
-Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking and the complimentary fields of Computer Science, Electrical Engineering, and Information Technology.
+Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking based on authentic instruction in the complimentary fields of Computer Science, Electrical Engineering, and Information Technology.
 
 
 Values
@@ -25,13 +25,13 @@ Values
 Assumptions
 ===========
 
-Computer Science is a STEM (science, technology, engineering, math) discipline. Computer Science and Information Technology are complementary subjects (CAS 4).
+Computer Science and Electrical Engineering are STEM  disciplines (science, technology, engineering, math). Computer Science and Information Technology are complementary subjects (CAS 4).
 
-As defined by Computing at School Working Group (2012):
+As contrast by the Computing at School Working Group in 2012,
 
 	Computer Science is a *discipline* that seeks to understand and explore the world around us, both natural and artificial, in computational terms. Computer science is particularly, but by no means exclusively, concerned with the study, design, and implementation of computer systems, and understanding the principles underlying these designs.
 
-	Information Technology deals with the purposeful application of computer systems to solve real-world problems, including issues such as the identification of business needs, the specification and installation of hardware and software, and the evaluation of useability. It the productive, creative and explorative use of technology. (5)
+	Information Technology deals with the purposeful application of computer systems to solve real-world problems, including issues such as the identification of business needs, the specification and installation of hardware and software, and the evaluation of useability. It the productive, creative and explorative use of technology. (CAS 5)
 
 
 Domains
@@ -59,12 +59,11 @@ Throughout the program, the student will achieve objectives in nine domains.
 
  	Correlary Standards, Benchmarks, Objectives:
 
-	* [Fiction reading objectives]
-	* [Nonfiction (essay) reading objectives]
-	* [non-print text reading objectives (film, multimedia)]
 	* This is cultural studies.
 	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
-
+	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
+	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
+	* [Placeholder: Critical reading of fiction]
 * Electronic Engineering
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
 
@@ -92,14 +91,8 @@ Throughout the program, the student will achieve objectives in nine domains.
 	* CompTIA Network+ and Security+ Learning objectives
 	* CCNA (Cisco) Learning Objectives
 
-* Literacy (Reading and Writing)
-	Short narrative goes here.
 
-	Correlary Standards, Benchmarks, Objectives:
 
-	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
-	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
-	* [Placeholder: Critical reading of fiction]
 
 
 
