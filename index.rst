@@ -20,6 +20,7 @@ Contents:
    year_3
    year_4
    authentic
+   inventory
 
 Indices and tables
 ==================
