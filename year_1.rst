@@ -62,6 +62,7 @@ The student will:
 * Articulate a community problem or need that can be solved or satisified by computer system;
 * Write a proposal for a computer system that can solve a problem are satisfy a need;
 * analyze a technological innovation and evaluate its impact economic, political, cultural impact.
+* Recognize the ethical and social implications of computer use. (College Board)
 
 
 *Level 2*

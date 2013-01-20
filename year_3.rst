@@ -21,6 +21,9 @@ The student will:
 * Survey, contrast, evaluate post-secondary program types within CS/Engineering/Software Studies/Media Studies, etc;
 * Survey, contrast, evaluate technology certification routes, with consideration for experience, learning objectives, career readiness;
 * Evaluate technology sector job opportunities and represent the relationships between skills and marketability verbally or visually
+* read and understand a large program consisting of several classes and interacting
+objects; read and understand a description of the design and development process leading to such a program (College Board)
+
 
 Level 7
 -------

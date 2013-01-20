@@ -13,6 +13,8 @@ The student will:
 * give instructions involving selection and repetition;
 * Interpret an algorithm and predict an output verbally;
 * present data in a structured format suitable for processing.
+* Design and implement solutions to problems by writing, running, and debugging computer programs (College Board)
+* Develop and select appropriate algorithms and data structures to solve problems (College Board)
 
 Level 5
 -------
@@ -28,3 +30,5 @@ The student will:
 * given a problem, manipulate strings to generate programmed verbal output;
 * given a problem, select and use appropriate data types to program a solution;
 * Characterize and use simple (1-dimensional) data structures.
+* Code fluently in a text-based paradigm confisting of several classes and interaction objects. (College Board)
+* Demonstrate familiarity with, and be able to use, standard library classes (College Board, modified)
