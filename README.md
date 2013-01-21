@@ -7,6 +7,7 @@ The Order of Things
 * [Year 2](https://github.com/ghoulmann/cs-curriculum/blob/master/year_2.rst)
 * [Year 3](https://github.com/ghoulmann/cs-curriculum/blob/master/year_3.rst)
 * [Year 4](https://github.com/ghoulmann/cs-curriculum/blob/master/year_4.rst)
+* [Anchor Texts](https://github.com/ghoulmann/cs-curriculum/blob/master/anchor_texts.rst)
 * [On Authentic Learning and Assessment](https://github.com/ghoulmann/cs-curriculum/blob/master/authenitc.rst)
 * [Independent & Outside Reading](http://badsville.ignorelist.com/moodle/mod/page/view.php?id=115): Collaborative document - please annotate, emend, strikout
 * [Reading the Screen: Supporting video](http://badsville.ignorelist.com/moodle/mod/page/view.php?id=143): Collaborative document - please annotate, add, strikethrough
