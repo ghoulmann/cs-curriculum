@@ -11,3 +11,6 @@ Anchor Texts
 * *CompTIA Linux+ Certification Powered by LPI* (Axzo Press)
 * *Shell Scripting* (Wrox)
 * *Command Line* (http://en.flossmanuals.net/command-line/)
+* *Understanding Computers*
+* *A+ Guide to Hardware* (Andrews)
+

@@ -45,6 +45,8 @@ Prospective Curriculum Technologies
 * SublimeText 2
 * virtual machines (VirtualBox, VMWare, Xen)
 * qemu
+* epoptes-client, epoptes
+* etherpad-lite with syntax-highlighting plugin
 
 
 
