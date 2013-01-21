@@ -13,4 +13,6 @@ Anchor Texts
 * *Command Line* (http://en.flossmanuals.net/command-line/)
 * *Understanding Computers*
 * *A+ Guide to Hardware* (Andrews)
+* *A+, Network+, Security+ Exams in a Nutshell* (O'Reilly Media)
+* *Understanding Technology*
 
