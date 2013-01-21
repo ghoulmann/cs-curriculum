@@ -1,6 +1,7 @@
 Prospective Curriculum Technologies
 -----------------------------------
 
+* Gitlab, Github, Bitbucket
 * Agile Development
 * Bugzilla
 * docuwiki
