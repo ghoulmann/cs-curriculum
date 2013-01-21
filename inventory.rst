@@ -20,9 +20,10 @@ Prospective Curriculum Technologies
 * Apache2
 * nginx
 * chromium-browser
-* vim
+* vim, emacs
 * netbeans
 * eclipse
+* AdaFruit WebIDE
 * Python
 * Ruby
 * PHP
@@ -38,6 +39,12 @@ Prospective Curriculum Technologies
 * Calligra Flow
 * bash
 * Idle
+* drpython
+* scite
+* gedit
+* SublimeText 2
+* virtual machines (VirtualBox, VMWare, Xen)
+* qemu
 
 
 
