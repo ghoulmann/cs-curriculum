@@ -65,9 +65,12 @@ Throughout the program, the student will achieve objectives in nine domains.
 	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
 	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
 	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
-	* [Placeholder: Critical reading of fiction]
+	* `Common Core > English Language Arts Standards > Reading Literature > Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RL/9-10>`_
+	* `Common Core > English Language Arts Standards > Reading Literature > Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RL/11-12>`_
+
 * Electronic Engineering
         The student will create, test, diagram, and troubleshoot electronic circuits and components.
+
 
 	Correlary Standards, Benchmarks, Objectives:
 
