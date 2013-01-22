@@ -283,3 +283,14 @@ epub_copyright = u'2013, Rik Goldman'
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
+
+# -- Options for PDF output --------------------------------------------------
+pdf_use_toc = True
+pdf_documents = [
+('index', u'heading', u'preface', u'prep_sem', u'year_1', u'year_2', u'year_3', u'year_4', u'anchor_texts', u'authentic', u'inventory', u'references'),
+]
+
+
+
+
+
