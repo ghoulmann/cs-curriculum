@@ -22,7 +22,9 @@ The student will:
 Level 5
 -------
 
-At level five, a student will programmatically store and retrieve data. The student will write original code that relies effectively and efficiently on functions and function calls; the program will span modules; the program will be packaged and documented for distribution. Depending on the problem, the student may plan on providing software the works across platforms.
+At level five, a student will programmatically store and retrieve data. The student will write original code that relies effectively and efficiently on functions and function calls; the program will span modules and rely on includes; the program will be packaged and documented for distribution. Depending on the problem, the student may plan on providing software the works across platforms.
+
+A level five student will make a substantive contribution to community of active programmers by debugging, documenting, testing, evaluating. Merge with branches.
 
 The student will:
 
