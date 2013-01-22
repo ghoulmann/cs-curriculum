@@ -107,5 +107,5 @@ The student will:
 * Compose, revise, and debug a shell script using a command-line text editor;
 * Strategically annotate a program written in a text-based language [functional or descriptive comments];
 * Repurpose existing code in a text-based language and modify to solve a different, authentic problem than intended.
-
+* Automate and schedule (shell scripts, at, cron) routine administrative tasks
 
