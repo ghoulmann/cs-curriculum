@@ -1,5 +1,6 @@
 The Order of Things
 -------------------
+* [License](https://github.com/ghoulmann/cs-curriculum/blob/master/LICENSE.rst)
 * [Heading](https://github.com/ghoulmann/cs-curriculum/blob/master/heading.rst)
 * [Preface](https://github.com/ghoulmann/cs-curriculum/blob/master/preface.rst)
 * [Remediation Seminars](https://github.com/ghoulmann/cs-curriculum/blob/master/prep_sem.rst)
