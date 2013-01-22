@@ -50,4 +50,10 @@ Raspberry Pi
 * *Programming the Raspberry Pi* (Simon Monk)
 * *Getting Started with the Raspberry Pi* (Richardson)
 
+Post-Secondary Transition
+-------------------------
+
+* *Programming Python* (O'Reilly) [placeholder]
+* *Expert Resumes for Computer and Web Jobs, 3rd Ed* [placeholder]
+* *Hacking the IT Cube* [placeholder]
 

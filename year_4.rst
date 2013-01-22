@@ -2,15 +2,6 @@
 Year 4
 ===========
 
-
-Anchor Texts
-------------
-
-* *CompTIA Linux+ Certification Powered by LPI* (Axzo Press)
-* *Programming Python* (O'Reilly) [placeholder]
-* *Expert Resumes for Computer and Web Jobs, 3rd Ed* [placeholder]
-* *Hacking the IT Cube* [placeholder]
-
 Artifacts of Learning (example set)
 -----------------------------------
 
