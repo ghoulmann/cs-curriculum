@@ -13,6 +13,7 @@ Prospective Curriculum Technologies
 * GNU/Linux
 * Subversion
 * Git
+* bzr (bazaar)
 * Trac
 * Virtualization Platform
 * Observium
@@ -48,6 +49,7 @@ Prospective Curriculum Technologies
 * qemu
 * epoptes-client, epoptes
 * etherpad-lite with syntax-highlighting plugin
+* SQLite, MySQL, PostgreSQL
 
 
 
