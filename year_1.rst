@@ -55,6 +55,7 @@ The student will:
 * Write a proposal for a computer system that can solve a problem are satisfy a need;
 * analyze a technological innovation and evaluate its impact economic, political, cultural impact.
 * Recognize the ethical and social implications of computer use. (College Board)
+* Practice keyboarding
 
 
 *Level 2*
@@ -88,6 +89,7 @@ The student will:
 * Identify, requisition, build a hardware solution to determined specifications to solve an identified problem;
 * Install and configure a software solution to solve identified problem or satisfy authentic need;
 * articulate environmental threats to hardware and practice preventative care.
+* Demonstrate keyboarding progress through increased speed and accuracy
 
 
 *Level 3*
@@ -108,4 +110,5 @@ The student will:
 * Strategically annotate a program written in a text-based language [functional or descriptive comments];
 * Repurpose existing code in a text-based language and modify to solve a different, authentic problem than intended.
 * Automate and schedule (shell scripts, at, cron) routine administrative tasks
+* Demonstrate increased keyboarding speed and accuracy.
 
