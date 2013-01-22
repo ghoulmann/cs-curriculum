@@ -21,9 +21,7 @@ The student will:
 * Survey, contrast, evaluate post-secondary program types within CS/Engineering/Software Studies/Media Studies, etc;
 * Survey, contrast, evaluate technology certification routes, with consideration for experience, learning objectives, career readiness;
 * Evaluate technology sector job opportunities and represent the relationships between skills and marketability verbally or visually
-* read and understand a large program consisting of several classes and interacting
-objects; read and understand a description of the design and development process leading to such a program (College Board)
-
+* read and understand a large program consisting of several classes and interacting objects; read and understand a description of the design and development process leading to such a program (College Board)
 
 Level 7
 -------
@@ -55,3 +53,4 @@ The student will:
 * use a documentation system to document usage and features of a self-produced program for others;
 * normalize data structures;
 * analyze and verbally represent the relationship between complex real life and the algorithm, logic and visualisations associated with programming.
+

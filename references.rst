@@ -1,7 +1,7 @@
 References
 ==========
 
-Computing at School Working Group. *Computer Science: A Curriculum for Schools." (2012)
+Computing at School Working Group. *Computer Science: A Curriculum for Schools.* (2012)
 
 Ito, Mizuko, et. al. *Connected Learning: An Agenda For Research and Design*.
 
