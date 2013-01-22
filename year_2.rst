@@ -1,8 +1,15 @@
 Year 2
 ======
 
-Level 4
--------
+Artifacts of Learning [examples]
+--------------------------------
+
+* Place holder
+
+Learning Objectives
+-------------------
+
+*Level 4*
 
 The level four student will collaboratively rely on the design process to draft, test, debug, and deploy an original, short program in a text-based language that programmitcally solves an authentic problem for a user. The student will choose a license purposefully and develop appropriate clear technical documentation for a user with something at stake.
 
@@ -19,8 +26,7 @@ The student will:
 * Design and implement solutions to problems by writing, running, and debugging computer programs (College Board)
 * Develop and select appropriate algorithms and data structures to solve problems (College Board)
 
-Level 5
--------
+*Level 5*
 
 At level five, a student will programmatically store and retrieve data. The student will write original code that relies effectively and efficiently on functions and function calls; the program will span modules and rely on includes; the program will be packaged and documented for distribution. Depending on the problem, the student may plan on providing software the works across platforms.
 

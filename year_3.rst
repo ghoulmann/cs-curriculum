@@ -1,8 +1,15 @@
 Year 3
 ======
 
-Level 6
--------
+Artifacts of Learning (examples)
+--------------------------------
+
+* Placeholder
+
+Learning Objectives
+-------------------
+
+*Level 6*
 
 The student will:
 
@@ -23,8 +30,7 @@ The student will:
 * Evaluate technology sector job opportunities and represent the relationships between skills and marketability verbally or visually
 * read and understand a large program consisting of several classes and interacting objects; read and understand a description of the design and development process leading to such a program (College Board)
 
-Level 7
--------
+*Level 7*
 
 The student will:
 
@@ -41,8 +47,7 @@ The student will:
 * Analyze, simplify, and use complex data structures in self-produced programs.
 * Prepare a resume/CV with well-suited career objective and cover letter for a specific audience and purpose.
 
-Level 8
--------
+*Level 8*
 
 The student will:
 
