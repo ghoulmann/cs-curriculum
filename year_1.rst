@@ -34,23 +34,23 @@ Learning Objectives
 
 The student will:
 
-* Define *system* and components common to system [including environment and feedback];
-* identify and define the boundary of an everyday system;
+* Define *system* and components common to systems [including environment and feedback];
+* identify and define the boundary of an common system;
 * read and narrate existing storyboards depicting familiar activities;
-* sequence a collection of images conveying a narrative;
-* sequence a collection of images conveying a process;
+* sequence a collection of images conveying a familiar process;
 * identify and catalog everyday devices that respond to signals and instructions;
-* recite the design process;
+* recite the design process [recursive];
 * verbally and graphically articulate a definition of a computer system;
 * visually identify the components of a computer system;
+* identify and label input and output devices of a computer system;
 * identify and differentiate input and outport ports on computer;
 * connect the physical components of a computer system;
-* Articulate verbally the common functions of an operating system;
-* Install an operating system based on technical writing;
-* Configure global system settings (e.g. keyboard config, locale, time-zone);
+* Articulate the common functions of an operating system;
+* Install an operating system based on documentation;
+* Configure global system settings (e.g. keyboard config, locale, time-zone) of an OS;
 * interact with the computer though both the command line and graphical user interfaces;
-* Define and classify software;
-* Given a schematic, create a simple electronic toy;
+* Define and classify software [system and application software];
+* Given a schematic and electronic components, create a simple electronic toy [series];
 * Articulate a community problem or need that can be solved or satisified by computer system;
 * Write a proposal for a computer system that can solve a problem are satisfy a need;
 * analyze a technological innovation and evaluate its impact economic, political, cultural impact.
@@ -62,20 +62,21 @@ The student will:
 The student will:
 
 * collaborate to determine a "system administrator code of conduct";
-* Independently represent the collaborative process (verbally or visually)
-* escalate privileges;
-* Control read, write, execute file permissions from the command line (mode)
-* manage files, directories, and removeable media;
-* manage users and groups;
-* set file and directory permissions;
+* Independently represent the collaborative process (verbally or visually);
+* escalate privileges with a network OS account;
+* Control read, write, execute file and directory permissions from the command line [mode];
+* manage files, directories, and removeable media [ls, mount, umount, rm, rmdir];
+* Differentiate command line commands, parameters, and arguments;
+* manage users and groups [usermod, useradd, adduser, etc.];
 * customize the user environment;
-* configure the computer for remote access to the command line and graphic user interface;
-* strategic determine and set a computer hostname;
+* configure the computer for remote access to the command line and graphic user interface [ssh, xrdp, vnc];
+* strategically determine and set a computer hostname;
+* Articulate and contrast features and use scenarios of VNC and RDP servers;
 * identify the computer's unique network address from the command line (ip address, dhcp);
-* Remotely access the computer and account (with ssh and rdp);
-* install software using package manager;
+* Remotely access the computer and account [with ssh and rdp];
+* install software using a package manager;
 * manage software installation, updates, and removal;
-* search for software in a repository;
+* search for software in a repository [apt-cache search];
 * create storyboards depicting personal narratives and everyday activities;
 * Use the design process to create and issue direct commands to make things happen with technology;
 * identify simple problems that can be solved using programmable tools, toys, or systems;
@@ -103,3 +104,8 @@ The student will:
 * create and access a personal code repository using a revision tracking system;
 * Read flowchart;
 * Given diagramming software, create a flowchart for provided and self-produced program.
+* Compose, revise, and debug a shell script using a command-line text editor;
+* Strategically annotate a program written in a text-based language [functional or descriptive comments];
+* Repurpose existing code in a text-based language and modify to solve a different, authentic problem than intended.
+
+
