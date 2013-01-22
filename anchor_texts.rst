@@ -18,5 +18,7 @@ Anchor Texts
 * *Guide to Parallel Operating Systems with Windows 7 and Linux*
 * *Raspberry Pi Education Manual* (CAS)
 * *Raspberry Pi Users' Guide* (Upton)
+* *Programming the Raspberry Pi* (Simon Monk)
+* *Getting Started with the Raspberry Pi* (Richardson)
 
 
