@@ -1,6 +1,8 @@
 Prospective Curriculum Technologies
 -----------------------------------
 
+* 1-wire
+* rrdtool
 * Gitlab, Github, Bitbucket
 * Agile Development
 * Bugzilla
