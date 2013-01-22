@@ -16,5 +16,7 @@ Anchor Texts
 * *A+, Network+, Security+ Exams in a Nutshell* (O'Reilly Media)
 * *Understanding Technology*
 * *Guide to Parallel Operating Systems with Windows 7 and Linux*
+* *Raspberry Pi Education Manual* (CAS)
+* *Raspberry Pi Users' Guide* (Upton)
 
 
