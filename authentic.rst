@@ -14,6 +14,9 @@ Resources and supporting research will be listed here. There's a collection of r
 Examples
 --------
 
+* Create a LAN segment
+* Create a WAP to allow wireless access to the lab-network segment.
+* Create a router to isolate and manage lab traffic
 * Create a reset circuit (momentary switch) for Raspberry Pi B r 2.
 * Create a climate sensor system with 1-wire and Raspberry Pi technology for server cabinet
 * Collect, log, graph data from 1-wire network, publish to web (rrdtool, graphite, cacti, nginx or apache2); administer server solution
