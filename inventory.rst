@@ -1,6 +1,8 @@
 Prospective Curriculum Technologies
 -----------------------------------
 
+* 1-wire
+* rrdtool
 * Gitlab, Github, Bitbucket
 * Agile Development
 * Bugzilla
@@ -50,6 +52,11 @@ Prospective Curriculum Technologies
 * epoptes-client, epoptes
 * etherpad-lite with syntax-highlighting plugin
 * SQLite, MySQL, PostgreSQL
+* IRC (irssi, irc.freenode.net)
+* trac
+* html
+
+
 
 
 

@@ -1,5 +1,6 @@
 The Order of Things
 -------------------
+* [License](https://github.com/ghoulmann/cs-curriculum/blob/master/LICENSE.rst)
 * [Heading](https://github.com/ghoulmann/cs-curriculum/blob/master/heading.rst)
 * [Preface](https://github.com/ghoulmann/cs-curriculum/blob/master/preface.rst)
 * [Remediation Seminars](https://github.com/ghoulmann/cs-curriculum/blob/master/prep_sem.rst)
@@ -81,7 +82,14 @@ To Do
 * HCI unit and resources
 * shell script + AT and cron
 * Boolean logic (make a truth table?)
-* Effective comments
+* Functions
+* Variable, variable type, variable scope
+* code comments
+* loops
+* conditionals
+* operators (boolean and mathematical)
+* prompt for input, echo/print output
+* import and include
 * Strategic, programmatic troubleshooting
 * concrete artifacts of learning
 * at collaboration and tools

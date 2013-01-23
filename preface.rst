@@ -35,6 +35,7 @@ As contrasted by the Computing at School Working Group in 2012,
 
 	Information Technology deals with the purposeful application of computer systems to solve real-world problems, including issues such as the identification of business needs, the specification and installation of hardware and software, and the evaluation of useability. It the productive, creative and explorative use of technology. (CAS 5)
 
+It is assumed that students are exposed to productivity applications and assistive technologies across the curriculum. This program builds on that most fundamental IT experience to help students develop into critical consumers and producers of digital tools.
 
 Domains
 =======
@@ -43,7 +44,7 @@ Throughout the program, the student will achieve objectives in nine domains.
 * Algorithms
         The student will define the term algorithm and identify authentic uses for algorithms.
 * Programs
-        The student will independently plan, compose, debug, and document software that addresses an authentic purpose for a user or community with something at stake.
+        The student will use the commands, statements, procedures, and conventions of a text-based interpreted language [Python] to independently and collaboratively plan, compose, debug, run, edit, and document software that addresses an authentic purpose for a user or community with something at stake.
 * Data
         The student will classify, store, retrieve, manipulate, query data sources. (revise to match CAS)
 * Computers
@@ -61,7 +62,6 @@ Throughout the program, the student will achieve objectives in nine domains.
 
  	Correlary Standards, Benchmarks, Objectives:
 
-	* This is cultural studies.
 	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
 	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
 	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
