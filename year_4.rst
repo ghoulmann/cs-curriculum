@@ -6,7 +6,8 @@ Artifacts of Learning (example set)
 -----------------------------------
 
 * Collaborate on a successful open source project: provide support, documentation, debugging, etc
-* In an interpreted language, write a cross-platform....
+* In an interpreted language, write a cross-platform application that stores and retrieves data...user interface...original application, license, documentation. Published solution.
+
 
 Learning Objectives
 -------------------
