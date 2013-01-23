@@ -5,6 +5,9 @@ Artifacts of Learning [examples]
 --------------------------------
 
 * Integrate a 1-wire environmental sensor into a computer system and log its data using an efficient and appropriate database tool. Use mathematical operators to programmatically convert celsius measurements to fahrenheit. Graph environmental sensor data over time using rrdtool, graphite, or cacti.
+* Given a compatible scanner, hardware GPIO and linux, create a scan-to-email solution that works with a single push button. (obviate costly network scanner solution)
+* Given a code base for Flesch-Kincaid readability, create an in house, cross-platform text document analyzer that assesses a writing samples grade levels based on at least three indicis/algorithms.
+
 
 Learning Objectives
 -------------------
