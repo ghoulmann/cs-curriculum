@@ -82,7 +82,14 @@ To Do
 * HCI unit and resources
 * shell script + AT and cron
 * Boolean logic (make a truth table?)
-* Effective comments
+* Functions
+* Variable, variable type, variable scope
+* code comments
+* loops
+* conditionals
+* operators (boolean and mathematical)
+* prompt for input, echo/print output
+* import and include
 * Strategic, programmatic troubleshooting
 * concrete artifacts of learning
 * at collaboration and tools
