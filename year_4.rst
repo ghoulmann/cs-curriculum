@@ -5,7 +5,8 @@ Year 4
 Artifacts of Learning (example set)
 -----------------------------------
 
-* Place holder
+* Collaborate on a successful open source project: provide support, documentation, debugging, etc
+* In an interpreted language, write a cross-platform....
 
 Learning Objectives
 -------------------
