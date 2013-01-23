@@ -4,7 +4,11 @@ Year 3
 Artifacts of Learning (examples)
 --------------------------------
 
-* Placeholder
+* Computer power control (electronic solution)
+* Create custom Linux distribution that serves a specific purpose for a specific audience
+* Collaborate on an open source project and earn credit as a team member by documenting, testing, decoding.
+* Write a code philosophy for an original project
+
 
 Learning Objectives
 -------------------
