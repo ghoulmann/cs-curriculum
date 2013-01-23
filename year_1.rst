@@ -25,6 +25,8 @@ The student will:
 * Maintain a hardcopy log of changes to a system under her administration;
 * Successfully emulate a computer system and use it to produce a manipulate a filesystem [resize partitions, write partition table].
 * Plan, diagram [according to convention] and create a working electronic circuit using prototyping tools.
+* Research and develop a students' guide to shell scripting language that compares and contrasts at least three shell languages.
+* Provide credit to those whose ideas and content has been used in creating new works.
 
 
 Learning Objectives
@@ -56,6 +58,9 @@ The student will:
 * analyze a technological innovation and evaluate its impact economic, political, cultural impact.
 * Recognize the ethical and social implications of computer use. (College Board)
 * Practice keyboarding
+* Demonstrate computer start-up and shut-down procedures
+* Demonstrate the execution of an existing program in a text-based language
+* Explain the storage, retrieval, and deletion of programs.
 
 
 *Level 2*

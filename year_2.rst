@@ -4,7 +4,7 @@ Year 2
 Artifacts of Learning [examples]
 --------------------------------
 
-* Place holder
+* Integrate a 1-wire environmental sensor into a computer system and log its data using an efficient and appropriate database tool. Use mathematical operators to programmatically convert celsius measurements to fahrenheit. Graph environmental sensor data over time using rrdtool, graphite, or cacti.
 
 Learning Objectives
 -------------------
@@ -25,12 +25,10 @@ The student will:
 * present data in a structured format suitable for processing;
 * Design and implement solutions to problems by writing, running, and debugging computer programs (College Board)
 * Develop and select appropriate algorithms and data structures to solve problems (College Board)
+* Illustrate a process using a flowchart conventionally
+* Demonstrate the use of pseudocode
 
 *Level 5*
-
-At level five, a student will programmatically store and retrieve data. The student will write original code that relies effectively and efficiently on functions and function calls; the program will span modules and rely on includes; the program will be packaged and documented for distribution. Depending on the problem, the student may plan on providing software the works across platforms.
-
-A level five student will make a substantive contribution to community of active programmers by debugging, documenting, testing, evaluating. Merge with branches.
 
 The student will:
 
@@ -45,3 +43,7 @@ The student will:
 * Characterize and use simple (1-dimensional) data structures.
 * Code fluently in a text-based paradigm consisting of several classes and interaction objects. (College Board)
 * Demonstrate familiarity with, and be able to use, standard library classes (College Board, modified)
+* identify acceptable names for variables in a text-based language
+* recognize and apply the symbols for mathematical operations in a text-based language
+* demonstrate the use of for and while loops and
+* demonstrate the use of conditionals
