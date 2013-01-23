@@ -27,6 +27,7 @@ The student will:
 * Plan, diagram [according to convention] and create a working electronic circuit using prototyping tools.
 * Research and develop a students' guide to shell scripting language that compares and contrasts at least three shell languages.
 * Provide credit to those whose ideas and content has been used in creating new works.
+* Given a kit, build a volt-ohm-meter to be used to complete course projects.
 
 
 Learning Objectives
