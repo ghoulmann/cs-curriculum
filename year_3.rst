@@ -8,6 +8,9 @@ Artifacts of Learning (examples)
 * Create custom Linux distribution that serves a specific purpose for a specific audience
 * Collaborate on an open source project and earn credit as a team member by documenting, testing, decoding.
 * Write a code philosophy for an original project
+* Create a portfolio of stocks of five corporations integral to the technology landscape and available for public offering; graphically track the performance of the portfolio; publish opinion on performance of an assett in relation to current technology events
+* Resume/CV/Portfolio; professional membership. Foster a professional identity and network using linkedin or other services.
+* Earn CompTIA Linux+ Powered by LPI Certification
 
 
 Learning Objectives
