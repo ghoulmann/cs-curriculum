@@ -30,6 +30,7 @@ The student will:
 * Develop and select appropriate algorithms and data structures to solve problems (College Board)
 * Illustrate a process using a flowchart conventionally
 * Demonstrate the use of pseudocode
+* Use a soldering iron to create designed circuits based on schematics
 
 *Level 5*
 
@@ -50,3 +51,4 @@ The student will:
 * recognize and apply the symbols for mathematical operations in a text-based language
 * demonstrate the use of for and while loops and
 * demonstrate the use of conditionals
+* Control electronic devices programmatically through GPIO and serial interfaces

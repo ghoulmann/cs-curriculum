@@ -96,7 +96,7 @@ The student will:
 * Install and configure a software solution to solve identified problem or satisfy authentic need;
 * articulate environmental threats to hardware and practice preventative care.
 * Demonstrate keyboarding progress through increased speed and accuracy
-
+* Electronics projects from kits
 
 *Level 3*
 
@@ -117,4 +117,5 @@ The student will:
 * Repurpose existing code in a text-based language and modify to solve a different, authentic problem than intended.
 * Automate and schedule (shell scripts, at, cron) routine administrative tasks
 * Demonstrate increased keyboarding speed and accuracy.
+* use prototyping resources, including breadboards, to design purposeful circuits.
 
