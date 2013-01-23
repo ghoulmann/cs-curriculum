@@ -1,5 +1,5 @@
-First Year
-==========
+Year 1
+======
 
 
 Artifacts of Learning (examples)
