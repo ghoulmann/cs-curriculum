@@ -2,7 +2,7 @@
 Year 4
 ===========
 
-Artifacts of Learning (example set)
+Artifacts of Learning (examples)
 -----------------------------------
 
 * Collaborate on a successful open source project: provide support, documentation, debugging, etc
