@@ -58,11 +58,12 @@ The student will:
 * Write a proposal for a computer system that can solve a problem are satisfy a need;
 * analyze a technological innovation and evaluate its impact economic, political, cultural impact.
 * Recognize the ethical and social implications of computer use. (College Board)
-* Practice keyboarding
-* Demonstrate computer start-up and shut-down procedures
+* Practice keyboarding;
+* Demonstrate computer start-up and shut-down procedures;
 * Demonstrate the execution of an existing program in a text-based language
-* Explain the storage, retrieval, and deletion of programs.
-
+* Explain the storage, retrieval, and deletion of programs;
+* graphically and verbally differentiate between ohms, amps, volts;
+* Measure ohms, amps, volts.
 
 *Level 2*
 
@@ -97,6 +98,7 @@ The student will:
 * articulate environmental threats to hardware and practice preventative care.
 * Demonstrate keyboarding progress through increased speed and accuracy
 * Electronics projects from kits
+* Given values, determine volts, watts, ohms, amps using ohms law.
 
 *Level 3*
 
