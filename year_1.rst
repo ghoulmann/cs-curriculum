@@ -120,4 +120,5 @@ The student will:
 * Automate and schedule (shell scripts, at, cron) routine administrative tasks
 * Demonstrate increased keyboarding speed and accuracy.
 * use prototyping resources, including breadboards, to design purposeful circuits.
+* Design, debug a text-based program to programmatically determine ohms, watts, volts, amps from given values.
 
