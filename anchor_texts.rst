@@ -38,7 +38,7 @@ Hardware and Electronic Engineering
 * *Understanding Computers*
 * *A+ Guide to Hardware* (Andrews)
 * *A+, Network+, Security+ Exams in a Nutshell* (O'Reilly Media)
-* *Understanding Technology*
+* *Technology and Engineering*
 
 Raspberry Pi
 ------------
@@ -57,3 +57,6 @@ Post-Secondary Transition
 * *Expert Resumes for Computer and Web Jobs, 3rd Ed* [placeholder]
 * *Hacking the IT Cube* [placeholder]
 
+Miscellaneous
+-------------
+* Pragmatic Guide to Git* (Pragmatic Bookshelf)
