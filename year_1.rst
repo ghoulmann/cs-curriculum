@@ -121,4 +121,5 @@ The student will:
 * Demonstrate increased keyboarding speed and accuracy.
 * use prototyping resources, including breadboards, to design purposeful circuits.
 * Design, debug a text-based program to programmatically determine ohms, watts, volts, amps from given values.
+* Articulate the way electricity is used to control lab equipment and computer systems.
 
