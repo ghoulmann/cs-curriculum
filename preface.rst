@@ -83,7 +83,7 @@ Throughout the program, the student will achieve objectives in nine domains.
 	* `Common Core > English Language Arts Standards > Reading Literature > Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RL/11-12>`_
 
 * Electronic Engineering
-        The student will design, test, diagram, and troubleshoot electronic systems and components.
+        The student will design, test, diagram, install, repair, and troubleshoot electronic systems and components.
 
 
 	Correlary Standards, Benchmarks, Objectives:
