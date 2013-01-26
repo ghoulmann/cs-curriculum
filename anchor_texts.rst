@@ -59,4 +59,5 @@ Post-Secondary Transition
 
 Miscellaneous
 -------------
-* Pragmatic Guide to Git* (Pragmatic Bookshelf)
+* *Pragmatic Guide to Git* (Pragmatic Bookshelf)
+* *Introduction to Algorithms 3rd Ed* (Cormen et al)
