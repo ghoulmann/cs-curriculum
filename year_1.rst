@@ -28,6 +28,7 @@ The student will:
 * Research and develop a students' guide to shell scripting language that compares and contrasts at least three shell languages.
 * Provide credit to those whose ideas and content has been used in creating new works.
 * Given a kit, build a volt-ohm-meter to be used to complete course projects.
+* solve simple mathematical problems with inductive reasoning
 
 
 Learning Objectives
@@ -65,6 +66,7 @@ The student will:
 * graphically and verbally differentiate between ohms, amps, volts;
 * Measure ohms, amps, volts.
 * Make sense of problems and persevere in solving them
+* Articulate a definition of algorithm and algorithms' role in programming
 
 *Level 2*
 
@@ -101,6 +103,7 @@ The student will:
 * Electronics projects from kits
 * Given values, determine volts, watts, ohms, amps using ohms law.
 * Reason abstractly and quantitatively
+* analyze and design simple algorithms
 
 *Level 3*
 
@@ -129,3 +132,4 @@ The student will:
 * Attend to precision
 * Look for and make use of structure
 * Look for and express regularity in repeated reasoning
+* articulate asymptotic and standard notations as a growth of functions
