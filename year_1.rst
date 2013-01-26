@@ -64,6 +64,7 @@ The student will:
 * Explain the storage, retrieval, and deletion of programs;
 * graphically and verbally differentiate between ohms, amps, volts;
 * Measure ohms, amps, volts.
+* Make sense of problems and persevere in solving them
 
 *Level 2*
 
@@ -99,6 +100,7 @@ The student will:
 * Demonstrate keyboarding progress through increased speed and accuracy
 * Electronics projects from kits
 * Given values, determine volts, watts, ohms, amps using ohms law.
+* Reason abstractly and quantitatively
 
 *Level 3*
 
@@ -122,4 +124,8 @@ The student will:
 * use prototyping resources, including breadboards, to design purposeful circuits.
 * Design, debug a text-based program to programmatically determine ohms, watts, volts, amps from given values.
 * Articulate the way electricity is used to control lab equipment and computer systems.
-
+* Construct viable arguments and critique the reasoning of others
+* Use appropriate tools strategically
+* Attend to precision
+* Look for and make use of structure
+* Look for and express regularity in repeated reasoning
