@@ -67,6 +67,7 @@ The student will:
 * Measure ohms, amps, volts.
 * Make sense of problems and persevere in solving them
 * Articulate a definition of algorithm and algorithms' role in programming
+* Articulate visually or verbally the foundations of algorithmic problem solving
 
 *Level 2*
 

@@ -56,7 +56,7 @@ Domains
 Throughout the program, the student will achieve objectives in nine domains.
 
 * Algorithms
-        The student will define the term algorithm and identify authentic uses for algorithms.
+        The student will design, analyze, and evaluate algorithms to solve authentic problems.
 * Programs
         The student will use the commands, statements, procedures, and conventions of a text-based interpreted language [Python] to independently and collaboratively plan, compose, debug, run, edit, and document software that addresses an authentic purpose for a user or community with something at stake.
 * Data
