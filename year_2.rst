@@ -31,6 +31,8 @@ The student will:
 * Illustrate a process using a flowchart conventionally
 * Demonstrate the use of pseudocode
 * Use a soldering iron to create designed circuits based on schematics
+* Strategically choose from among a variety of "divide and conquer" methods to solve recurrences
+* practice probabilistic analysis of randomized algorithms
 
 *Level 5*
 
@@ -52,3 +54,6 @@ The student will:
 * demonstrate the use of for and while loops and
 * demonstrate the use of conditionals
 * Control electronic devices programmatically through GPIO and serial interfaces
+* Use heapsort to sort and order statistics
+* use quicksort to sort and order statistics
+* sort data in linear time (?)

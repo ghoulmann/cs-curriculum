@@ -22,3 +22,5 @@ The student will:
 * Provide support for a software product
 * Independently incorporate bug tracking system into workflow
 * Independently maintain a well-documented and clearly licensed code repository using a revision system
+* Identify characteristics of advanced data structures (b-trees, fibanachi heaps, etc)
+* Create elementary graph algorithms

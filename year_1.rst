@@ -28,6 +28,7 @@ The student will:
 * Research and develop a students' guide to shell scripting language that compares and contrasts at least three shell languages.
 * Provide credit to those whose ideas and content has been used in creating new works.
 * Given a kit, build a volt-ohm-meter to be used to complete course projects.
+* solve simple mathematical problems with inductive reasoning
 
 
 Learning Objectives
@@ -58,11 +59,15 @@ The student will:
 * Write a proposal for a computer system that can solve a problem are satisfy a need;
 * analyze a technological innovation and evaluate its impact economic, political, cultural impact.
 * Recognize the ethical and social implications of computer use. (College Board)
-* Practice keyboarding
-* Demonstrate computer start-up and shut-down procedures
+* Practice keyboarding;
+* Demonstrate computer start-up and shut-down procedures;
 * Demonstrate the execution of an existing program in a text-based language
-* Explain the storage, retrieval, and deletion of programs.
-
+* Explain the storage, retrieval, and deletion of programs;
+* graphically and verbally differentiate between ohms, amps, volts;
+* Measure ohms, amps, volts.
+* Make sense of problems and persevere in solving them
+* Articulate a definition of algorithm and algorithms' role in programming
+* Articulate visually or verbally the foundations of algorithmic problem solving
 
 *Level 2*
 
@@ -97,6 +102,9 @@ The student will:
 * articulate environmental threats to hardware and practice preventative care.
 * Demonstrate keyboarding progress through increased speed and accuracy
 * Electronics projects from kits
+* Given values, determine volts, watts, ohms, amps using ohms law.
+* Reason abstractly and quantitatively
+* analyze and design simple algorithms
 
 *Level 3*
 
@@ -118,4 +126,11 @@ The student will:
 * Automate and schedule (shell scripts, at, cron) routine administrative tasks
 * Demonstrate increased keyboarding speed and accuracy.
 * use prototyping resources, including breadboards, to design purposeful circuits.
-
+* Design, debug a text-based program to programmatically determine ohms, watts, volts, amps from given values.
+* Articulate the way electricity is used to control lab equipment and computer systems.
+* Construct viable arguments and critique the reasoning of others
+* Use appropriate tools strategically
+* Attend to precision
+* Look for and make use of structure
+* Look for and express regularity in repeated reasoning
+* articulate asymptotic and standard notations as a growth of functions
