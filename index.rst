@@ -13,6 +13,7 @@ Contents:
 
    LICENSE
    heading
+   collab
    preface
    prep_sem
    year_1
