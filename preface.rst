@@ -21,7 +21,7 @@ Values
 * Authentic learning and assessment [narrowly defined; distinguished from project & performance-based assessment]
 * Differentiated Instruction
 * Collaboration
-* Networked learning (Ito 74)
+* Networked learning (Ito 74) [#]_.
 
 
 Assumptions
@@ -112,6 +112,9 @@ Throughout the program, the student will achieve objectives in nine domains.
 	* CCNA (Cisco) Learning Objectives
 
 
+
+
+.. [#] Connected learning is an approach to addressing inequity in education in ways geared to a networked society. It seeks to leverage the potential of digital media to expand access to learning that is socially embedded, interest-driven, and oriented toward educational, economic, or political opportunity. Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement. This model is based on evidence that the most resilient, adaptive, and effective learning involves individual interest as well as social support to overcome adversity and provide recognition. (Ito)
 
 
 
