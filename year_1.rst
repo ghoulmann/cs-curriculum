@@ -115,7 +115,7 @@ The student will:
 * articulate environmental threats to hardware and practice preventative care.
 * Demonstrate keyboarding progress through increased speed and accuracy
 * Electronics projects from kits
-* Given values, determine volts, watts, ohms, amps using ohms law.
+* Given values, determine volts, watts, ohms, amps using Ohm's law.
 * Reason abstractly and quantitatively
 * analyze and design simple algorithms
 
