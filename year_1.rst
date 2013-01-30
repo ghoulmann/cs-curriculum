@@ -68,6 +68,19 @@ The student will:
 * Make sense of problems and persevere in solving them
 * Articulate a definition of algorithm and algorithms' role in programming
 * Articulate visually or verbally the foundations of algorithmic problem solving
+* Explain motherboard components and features [CompTIA A+ Essentials]
+* Classify power supply types and features [ComptTIA A+ Essentials]
+* Explain the purpose and characteristics of CPUs and their features [CompTIA A+ Essentials]
+* Distinguish between different display devices and their characteristics [CompTIA A+ Essentials]
+* Install and configure peripherals and input devices [CompTIA A+ Essentials]
+* Given a scenario, integrate common preventative maintenance techniques [CompTIA A+ Essentials]
+* Evaluate and select appropriate components for a custom configuration, to meet customer specifications or needs [CompTIA A+ 220-801]
+* Install an appropriate power supply based on a given scenario [CompTIA A+ 220-801]
+* Evaluate and select apporpropriate components for a custom configuration, to meet authentic specification or needs [CompTIA A+ 220-801, modified]
+* Identify connector types and associated cables [CompTIA A+ 220-801]
+* Given a scenario, use appropriate safety procedures [CompTIA A+ 220-801]
+* Explain environmental impacts and the purpose of environmental controls [CompTIA A+ 220-801]
+
 
 *Level 2*
 
