@@ -11,6 +11,10 @@ Mission
 
 Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking based on authentic instruction in the complimentary fields of Computer Science, Electrical Engineering, and Information Technology.
 
+Rationale
+=========
+
+This program encourages innovation, collaboration, and resourcefulness as it develops and requires logical thinking and precision. Students apply underlying principles to understand, manipulate real-world systems and to create purposeful and usable artifacts. Underlying principles, authentic practice, innovation, and invention make it both rigorous and creative. (*Draft ICT Programme of Study*)
 
 Values
 ======
