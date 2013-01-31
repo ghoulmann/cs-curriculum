@@ -2,6 +2,8 @@
 Year 4
 ===========
 
+All participating students have the opportunity to take qualifications [*]_ in aspects of information technology and computer science which lead to progressio high levels of study or a professional career. Whether or not they take up this opportunity, participants will achieve the learning objectives below. (*Draft ICT Programme of Study*)
+
 Artifacts of Learning (examples)
 -----------------------------------
 
@@ -24,3 +26,5 @@ The student will:
 * Independently maintain a well-documented and clearly licensed code repository using a revision system
 * Identify characteristics of advanced data structures (b-trees, fibanachi heaps, etc)
 * Create elementary graph algorithms
+
+.. [*] “Qualifications” means that participating students cannot merely be offered a token course leading to nothing of value.

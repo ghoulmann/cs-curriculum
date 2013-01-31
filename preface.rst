@@ -9,7 +9,15 @@ It is not enough to equip students to access, consume, and utilize digital tools
 Mission
 =======
 
-Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking based on authentic instruction in the complimentary fields of Computer Science, Electrical Engineering, and Information Technology.
+Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking based on authentic instruction in the complimentary fields of Literacy, Computer Science, Electrical Engineering, and Information Technology.
+
+A successful implementation ensures that all participating students
+
+* Are competent, confident, and creative users of information technology
+* Can critically evaluate and apply information technology (including new or unfamiliar technologies) responsibily, collaboratively, and effectively to solve problems
+* Can analyze problems in computational terms, and have repeated practical experience of writing computer programs in order to solve them
+* Can understand and apply the fundamental principles of computer science, including logic, algrorithms, data representation, and networks
+* Can criticallly articulate the individual, cultural, and societal impacts of digital technology and know how to stay safe, exploit opportunities, and manage risks (*Draft ICT Programme of Study*)
 
 Rationale
 =========

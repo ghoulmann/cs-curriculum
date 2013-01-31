@@ -33,6 +33,9 @@ The student will:
 * Use a soldering iron to create designed circuits based on schematics
 * Strategically choose from among a variety of "divide and conquer" methods to solve recurrences
 * practice probabilistic analysis of randomized algorithms
+* Understand the hardware and software components that make up networked computer systems and how they interact
+* Explain how networks such as the Internet work
+* Understand how computers can monitor and control physical systems
 
 *Level 5*
 
@@ -56,4 +59,11 @@ The student will:
 * Control electronic devices programmatically through GPIO and serial interfaces
 * Use heapsort to sort and order statistics
 * use quicksort to sort and order statistics
-* sort data in linear time (?)
+* sort data in linear time
+* Develop programs that accomplish given goals, including controlling or simulating physical systems
+* solve problems by decomposing them into smaller parts
+* use sequence, selection, and repetition in programs
+* work with variables and various forms of input and output;
+* evaluate alternative algorithms and designs to solve a single problem
+* detect and correct errors in algorithms and programs
+

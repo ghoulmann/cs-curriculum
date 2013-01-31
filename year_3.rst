@@ -42,6 +42,11 @@ The student will:
 * create a binary search tree
 * recite the properties of a red/black tree (algorithms)
 * augment data structures
+* Design, use, and evaluate computational abstractions that model the state and behavior of real-world problems
+* write structured programs using procedures
+* use data structures such as tables or arrays
+* explain how an algorithm works, and why it represents an efficient solution to the problem
+* use at least two textual programming languages
 
 *Level 7*
 
@@ -75,3 +80,12 @@ The student will:
 * normalize data structures;
 * analyze and verbally represent the relationship between complex real life and the algorithm, logic and visualisations associated with programming.
 * identify the elements of the greedy algorithms
+* Work creatively on individual and collaborative projects in a range of digital systems
+* create, reuse, revise and repurpose digital information and content with attention to design, intellectual property, and audience.
+* Explain how instructions are executed within a computer system
+* explain how data of many types can be represented and manipulated in the form of binary digits
+* reflect on the personal, social, economic, and ethical impacts of technology and technological change, and the implications for rights, responsibilities, and freedoms
+
+
+
+
