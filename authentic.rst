@@ -31,4 +31,6 @@ Examples
 * Install vim-gnome on Ubuntu and vim on Raspberry Pi for vim-tutor
 * Install and configure in-house gitlab
 * Create custom Ubuntu LTS distro with specific suite of applications with accessibility in mind; productivity applications to include dia, calligra, pdfedit, etc.
-* Create and publish a custom raspbian appliance
+* Create and publish a custom Raspbian appliance
+
+.. index:: assessment, authentic assessment, circuit, LAN, LCD, LED, ATX, vim, Raspberry Pi, gitlab, Ubuntu, Raspbian, rrdtool

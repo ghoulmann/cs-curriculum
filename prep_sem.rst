@@ -38,4 +38,5 @@ The student will:
 * File nameing conventions
 * Diagram filesystem hierarchy
 * Differentiate between Save and Save As
-* 
+
+.. index:: literacy, professionalism, transition, digital literacy

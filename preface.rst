@@ -9,7 +9,7 @@ It is not enough to equip students to access, consume, and utilize digital tools
 Mission
 =======
 
-Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking based on authentic instruction in the complimentary fields of Literacy, Computer Science, Electrical Engineering, and Information Technology.
+Empower students to participate in the production of a intentionally designed, digital world through systematic and computational thinking based on authentic instruction in the complimentary fields of Literacy, Computer Science, Electronic Engineering, and Information Technology.
 
 A successful implementation ensures that all participating students
 
@@ -128,5 +128,5 @@ Throughout the program, the student will achieve objectives in nine domains.
 
 .. [#] Connected learning is an approach to addressing inequity in education in ways geared to a networked society. It seeks to leverage the potential of digital media to expand access to learning that is socially embedded, interest-driven, and oriented toward educational, economic, or political opportunity. Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement. This model is based on evidence that the most resilient, adaptive, and effective learning involves individual interest as well as social support to overcome adversity and provide recognition. (Ito)
 
-
+.. index:: digital, computational, engineering, Information Technology, Computer Science, STEM, Maryland, algorithims, network, CompTIA, Cisco, CCNA
 
