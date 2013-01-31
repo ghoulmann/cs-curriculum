@@ -1,7 +1,7 @@
 References
 ==========
 
-Computing at School Working Group. *Computer Science: A Curriculum for Schools.* (2012)
+Computing at School Working Group. `Computer Science: A Curriculum for Schools. <http://www.computingatschool.org.uk/index.php?id=cacfs>`_ (2012)
 
 Ito, Mizuko, et. al. *Connected Learning: An Agenda For Research and Design*.
 
@@ -11,6 +11,6 @@ Popham, W. James. "Performance Assessment." *Classroom Assessment: What Teachers
 
 MSDE. *Maryland State STEM Standards of Practice Framework Instructional Guide Grades 9-12* (Draft)
 
-*Draft ICT Programme of Study*. November, 2012.
+`Draft ICT Programme of Study <http://academy.bcs.org/content/draft-ict-programme-study>`_. November, 2012.
 
 
