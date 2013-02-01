@@ -13,4 +13,7 @@ MSDE. *Maryland State STEM Standards of Practice Framework Instructional Guide G
 
 `Draft ICT Programme of Study <http://academy.bcs.org/content/draft-ict-programme-study>`_. November, 2012.
 
+*Computer Science Curriculum 2008: An Interim Revision of CS 2001*. Association for Computing and Machinery IEEE Computer Society.
+
+
 
