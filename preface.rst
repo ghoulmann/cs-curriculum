@@ -35,6 +35,11 @@ Values
 * Collaboration
 * Networked learning (Ito 74) [#]_.
 
+Critical Consideration
+======================
+* Underrepresentation of women in STEM fields
+* Access to resources
+* 
 
 Assumptions
 ===========
