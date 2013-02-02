@@ -12,6 +12,7 @@ Text-Based Computer Languages
 * *Learning JavaScript* (O'Reilly Media)
 * *Head-First Python* (O'Reilly Media)
 * *Head First PHP & MySQL* (O'Reilly Media)
+* *Python for Kids* (No Starch Press)
 
 
 Linux and Shell Scripting
@@ -26,7 +27,7 @@ Linux and Shell Scripting
 Visual Languages
 ----------------
 
-* *Super Scratch Adventures*
+* *Super Scratch Adventures* (No Starch Press)
 * *Scratch 1.5* (Badger)
 
 Hardware and Electronic Engineering
