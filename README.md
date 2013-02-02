@@ -1,3 +1,5 @@
+Rendered at [http://badsville.ignorelist.com/project](http://badsville.ignorelist.com/project/). It's a bit easier to read there, but a draft behind. This version is to facilitate collaboration and consultation.
+
 The Order of Things
 -------------------
 * [License](https://github.com/ghoulmann/cs-curriculum/blob/master/LICENSE.rst)
