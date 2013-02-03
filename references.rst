@@ -17,5 +17,6 @@ MSDE. *Maryland State STEM Standards of Practice Framework Instructional Guide G
 
 Jenkins, Henry. New Media Literacies: A `Syllabus <http://henryjenkins.org/2009/08/new_media_literacies_-_a_syll.html>`_ . Web. 3 February 2013.
 
+Bay, Jennifer. *New Media* (`Purdue Syllabus <http://web.ics.purdue.edu/~jbay/680N/>`_ ). Web. 3 February 2013.
 
 
