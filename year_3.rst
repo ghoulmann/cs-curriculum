@@ -47,6 +47,7 @@ The student will:
 * use data structures such as tables or arrays
 * explain how an algorithm works, and why it represents an efficient solution to the problem
 * use at least two textual programming languages
+* identify and investigate forms and examples of new media as well as the theories that underlie and emerge from these forms [Bay]
 
 *Level 7*
 
@@ -85,6 +86,7 @@ The student will:
 * Explain how instructions are executed within a computer system
 * explain how data of many types can be represented and manipulated in the form of binary digits
 * reflect on the personal, social, economic, and ethical impacts of technology and technological change, and the implications for rights, responsibilities, and freedoms
+
 
 
 
