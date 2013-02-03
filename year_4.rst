@@ -26,5 +26,7 @@ The student will:
 * Independently maintain a well-documented and clearly licensed code repository using a revision system
 * Identify characteristics of advanced data structures (b-trees, fibanachi heaps, etc)
 * Create elementary graph algorithms
+* Deploy course concepts in the development of an independent research project which makes a substantive scholarly contribution [Jenkins]
+* Summarize and critique core theorists working in the field of New Media Literacy [Jenkins]
 
 .. [1] “Qualifications” means that participating students cannot merely be offered a token course leading to nothing of value.

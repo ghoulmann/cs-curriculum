@@ -7,7 +7,7 @@ Artifacts of Learning (examples)
 * Integrate a 1-wire environmental sensor into a computer system and log its data using an efficient and appropriate database tool. Use mathematical operators to programmatically convert celsius measurements to fahrenheit. Graph environmental sensor data over time using rrdtool, graphite, or cacti.
 * Given a compatible scanner, hardware GPIO array and NOS, create a scan-to-email solution that works with a single button push. (obviate costly network scanner solution)
 * Given a code base for Flesch-Kincaid readability, create an in house, cross-platform text document analyzer that assesses a writing samples grade levels based on at least three indicis/algorithms: use web/cgi solution or package for distribution using interpreted langauge.
-
+* Develop and publish a unique Linux distribution that serves an authentic purpose or solves a real-world problem.
 
 Learning Objectives
 -------------------
@@ -36,6 +36,7 @@ The student will:
 * Understand the hardware and software components that make up networked computer systems and how they interact
 * Explain how networks such as the Internet work
 * Understand how computers can monitor and control physical systems
+* Outline some of the ethical challenges which youth face in their roles as media producers and members of online communities [Jenkins]
 
 *Level 5*
 
@@ -66,4 +67,7 @@ The student will:
 * work with variables and various forms of input and output;
 * evaluate alternative algorithms and designs to solve a single problem
 * detect and correct errors in algorithms and programs
+* Describe our current understanding of the connections between participatory culture and civic engagement, including the relationship between the digital divide and the participation gap [Jenkins]
+* Comprehend the framework of basic social skills and cultural skills associated with the new media literacies [Jenkins]
+
 

@@ -15,5 +15,7 @@ MSDE. *Maryland State STEM Standards of Practice Framework Instructional Guide G
 
 *Computer Science Curriculum 2008: An Interim Revision of CS 2001*. Association for Computing and Machinery IEEE Computer Society.
 
+Jenkins, Henry. New Media Literacies: A `Syllabus <http://henryjenkins.org/2009/08/new_media_literacies_-_a_syll.html>`_ . Web. 3 February 2013.
+
 
 

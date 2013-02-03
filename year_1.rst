@@ -80,7 +80,7 @@ The student will:
 * Identify connector types and associated cables [CompTIA A+ 220-801]
 * Given a scenario, use appropriate safety procedures [CompTIA A+ 220-801]
 * Explain environmental impacts and the purpose of environmental controls [CompTIA A+ 220-801]
-
+* Map the ways the changing media landscape has impacted the way young people learn [Jenkins]
 
 *Level 2*
 
@@ -118,6 +118,7 @@ The student will:
 * Given values, determine volts, watts, ohms, amps using Ohm's law.
 * Reason abstractly and quantitatively
 * analyze and design simple algorithms
+* Identify how participatory cultures work to support the growth and contributions of their members [Jenkins]
 
 *Level 3*
 
@@ -147,3 +148,4 @@ The student will:
 * Look for and make use of structure
 * Look for and express regularity in repeated reasoning
 * articulate asymptotic and standard notations as a growth of functions
+* Recognize and be able to respond to core debates surrounding the value of bringing new media technologies and participatory culture practices into the classroom [Jenkins]

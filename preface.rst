@@ -89,7 +89,7 @@ Throughout the program, the student will achieve objectives in nine domains.
 	* `McRel Benchmarks for Business Education (21 - 30) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=27>`_
 
 
-* Technology and Culture
+* Technology and Culture or Digital Literacy
         The student will explore, interrogate, and hypothesize about causal relationships between technology and culture [to include public policy, values, economics]
 
  	Correlary Standards, Benchmarks, Objectives:
@@ -99,6 +99,7 @@ Throughout the program, the student will achieve objectives in nine domains.
 	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
 	* `Common Core > English Language Arts Standards > Reading Literature > Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RL/9-10>`_
 	* `Common Core > English Language Arts Standards > Reading Literature > Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RL/11-12>`_
+	* New Media Literacies: A `Syllabus <http://henryjenkins.org/2009/08/new_media_literacies_-_a_syll.html>`_ (Henry Jenkins)
 
 * Electronic Engineering
         The student will design, test, diagram, install, repair, and troubleshoot electronic systems and components.
