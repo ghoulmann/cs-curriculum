@@ -17,7 +17,7 @@ A successful implementation ensures that all participating students
 * Can critically evaluate and apply information technology (including new or unfamiliar technologies) responsibily, collaboratively, and effectively to solve problems
 * Can analyze problems in computational terms, and have repeated practical experience of writing computer programs in order to solve them
 * Can understand and apply the fundamental principles of computer science, including logic, algrorithms, data representation, and networks
-* Can criticallly articulate the individual, cultural, and societal impacts of digital technology and know how to stay safe, exploit opportunities, and manage risks (*Draft ICT Programme of Study*)
+* Can critically articulate the individual, cultural, and societal impacts of digital technology and know how to stay safe, exploit opportunities, and manage risks (*Draft ICT Programme of Study*)
 
 Rationale
 =========
@@ -39,12 +39,12 @@ Critical Consideration
 ======================
 * Underrepresentation of women in STEM fields
 * Access to resources
-* 
+* Reluctant readers and readers with language-based learning differences
 
 Assumptions
 ===========
 
-Computer Science and Electrical Engineering are STEM  disciplines (science, technology, engineering, math). Computer Science and Information Technology are complementary subjects (CAS 4).
+Computer Science and Electronics Engineering are STEM  disciplines (science, technology, engineering, math). Computer Science and Information Technology are complementary subjects (CAS 4).
 
 As contrasted by the Computing at School Working Group in 2012,
 
