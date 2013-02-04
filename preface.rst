@@ -33,7 +33,9 @@ Values
 * Authentic learning and assessment [narrowly defined; distinguished from project & performance-based assessment]
 * Differentiated Instruction
 * Collaboration
-* Networked learning (Ito 74) [#]_.
+* Networked learning (Ito 74) [#]_ .
+
+.. image:: images/connected-learning.jpeg
 
 Critical Consideration
 ======================
