@@ -100,6 +100,7 @@ Throughout the program, the student will achieve objectives in nine domains.
 	* `Common Core > English Language Arts Standards > Reading Literature > Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RL/9-10>`_
 	* `Common Core > English Language Arts Standards > Reading Literature > Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RL/11-12>`_
 	* New Media Literacies: A `Syllabus <http://henryjenkins.org/2009/08/new_media_literacies_-_a_syll.html>`_ (Henry Jenkins)
+	* Bay, Jennifer. New Media (Purdue Syllabus ). Web. 3 February 2013.
 
 * Electronic Engineering
         The student will design, test, diagram, install, repair, and troubleshoot electronic systems and components.
