@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'AdvancedTechnologyCurriculumProposaldoc'
+htmlhelp_basename = 'ComputingProposaldoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -245,7 +245,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Advanced Technology Curriculum Proposal'
+epub_title = u'Computing Curriculum Proposal'
 epub_author = u'Rik Goldman'
 epub_publisher = u'Rik Goldman'
 epub_copyright = u'2013, Rik Goldman'
@@ -286,7 +286,7 @@ epub_copyright = u'2013, Rik Goldman'
 
 # -- Options for PDF output --------------------------------------------------
 pdf_use_toc = True
-pdf_documents = [('index', u'LICENSE', u'heading', u'preface', u'prep_sem', u'year_1', u'year_2', u'year_3', u'year_4', u'anchor_texts', u'authentic', u'inventory', u'references')
+pdf_documents = [('index', u'LICENSE', u'heading', u'preface', u'prep_sem', u'year_1', u'year_2', u'year_3', u'year_4', u'anchor_texts', u'authentic', u'inventory', u'references'),
 ]
 pdf_language = "en_US"
 pdf_use_index = True
