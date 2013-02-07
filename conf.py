@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Curriculum Proposal'
+project = u'Computing Curriculum Proposal'
 copyright = u'2013, Rik Goldman'
 
 # The version info for the project you're documenting, acts as replacement for
