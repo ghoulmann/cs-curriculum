@@ -39,6 +39,7 @@ The student will:
 * Outline some of the ethical challenges which youth face in their roles as media producers and members of online communities [Jenkins]
 * Narrate the development of computing technology from vaccuum tubes through mainframes to parallel and cloud computing;
 * Articulate the relationships between science, technology, and science-fiction literature.
+* Plan and develop a solution that relies on an API
 
 *Level 5*
 
