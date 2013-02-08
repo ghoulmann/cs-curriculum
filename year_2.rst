@@ -42,6 +42,8 @@ The student will:
 * Plan and develop a solution that relies on an API
 * Cultivate and practice a daily news habit to keep informed of current events in science, technology, engineering, mathematics [bemedialiterate.com]
 * Increase efficiency and simplify electronic circuits with ICs.
+* Contrast high-level programming with low-level programming;
+* Contrast compiled languages and interpreted languages
 
 *Level 5*
 
@@ -75,4 +77,5 @@ The student will:
 * Describe our current understanding of the connections between participatory culture and civic engagement, including the relationship between the digital divide and the participation gap [Jenkins]
 * Comprehend the framework of basic social skills and cultural skills associated with the new media literacies [Jenkins]
 * Reflect and respond to science-fiction literature addressing themes of technological utopias/dystopias, sentience, cybernetics and cyborgs, or cyberspace.
+* Develop, write, debug, execute a program written in a compiled language
 

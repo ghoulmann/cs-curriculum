@@ -87,7 +87,7 @@ The student will:
 * Map the ways the changing media landscape has impacted the way young people learn [Jenkins]
 * Measure electricity and resistance
 * Handle and connect electronic components without overloading, damaging, or destroying them [Make:Electronics]
-
+* Read and understand a problem description, purpose, and goals [AP]
 
 *Level 2*
 
