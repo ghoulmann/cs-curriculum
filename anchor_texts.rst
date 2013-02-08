@@ -63,5 +63,6 @@ Miscellaneous
 * *Pragmatic Guide to Git* (Pragmatic Bookshelf)
 * *Introduction to Algorithms 3rd Ed* (Cormen et al)
 * *The Design and Analysis of Algorithms*
+* *Algorithms Unplugged*
 
 * *Digital Media Revisited* (MIT Press)

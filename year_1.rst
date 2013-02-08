@@ -31,6 +31,8 @@ The student will:
 * solve simple mathematical problems with inductive reasoning
 
 
+
+
 Learning Objectives
 -------------------
 
@@ -83,6 +85,9 @@ The student will:
 * Given a scenario, use appropriate safety procedures [CompTIA A+ 220-801]
 * Explain environmental impacts and the purpose of environmental controls [CompTIA A+ 220-801]
 * Map the ways the changing media landscape has impacted the way young people learn [Jenkins]
+* Measure electricity and resistance
+* Handle and connect electronic components without overloading, damaging, or destroying them [Make:Electronics]
+
 
 *Level 2*
 
@@ -121,6 +126,8 @@ The student will:
 * Reason abstractly and quantitatively
 * analyze and design simple algorithms
 * Identify how participatory cultures work to support the growth and contributions of their members [Jenkins]
+* Classify switches and relays [Make: Electronics]
+* Define capacitance [Make: Electronics]
 
 *Level 3*
 
@@ -152,3 +159,4 @@ The student will:
 * articulate asymptotic and standard notations as a growth of functions
 * Recognize and be able to respond to core debates surrounding the value of bringing new media technologies and participatory culture practices into the classroom [Jenkins]
 * Summarize a science-fiction cultural artifact.
+* Transplant electronic components from a breadboard onto a perforated board [Make: Electronics]

@@ -41,6 +41,7 @@ The student will:
 * Articulate the relationships between science, technology, and science-fiction literature.
 * Plan and develop a solution that relies on an API
 * Cultivate and practice a daily news habit to keep informed of current events in science, technology, engineering, mathematics [bemedialiterate.com]
+* Increase efficiency and simplify electronic circuits with ICs.
 
 *Level 5*
 
