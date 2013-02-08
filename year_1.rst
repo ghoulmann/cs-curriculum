@@ -40,6 +40,7 @@ The student will:
 
 * Define *system* and components common to systems [including environment and feedback];
 * identify and define the boundary of an common system;
+* Define technology in terms of tools, ideas, methods, actions;
 * read and narrate existing storyboards depicting familiar activities;
 * sequence a collection of images conveying a familiar process;
 * identify and catalog everyday devices that respond to signals and instructions;
