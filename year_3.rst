@@ -48,6 +48,7 @@ The student will:
 * explain how an algorithm works, and why it represents an efficient solution to the problem
 * use at least two textual programming languages
 * identify and investigate forms and examples of new media as well as the theories that underlie and emerge from these forms [Bay]
+* Analyze science-fiction literature in terms of social and political issues and stakes.
 
 *Level 7*
 
@@ -66,6 +67,7 @@ The student will:
 * Analyze, simplify, and use complex data structures in self-produced programs.
 * Prepare a resume/CV with well-suited career objective and cover letter for a specific audience and purpose.
 * identify the elements of dynamic programming
+* Compose a social and political critique of a science fiction artifact.
 
 
 

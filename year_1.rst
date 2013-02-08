@@ -38,6 +38,7 @@ Learning Objectives
 
 The student will:
 
+* Differentiate between science and technology;
 * Define *system* and components common to systems [including environment and feedback];
 * identify and define the boundary of an common system;
 * Define technology in terms of tools, ideas, methods, actions;
@@ -150,3 +151,4 @@ The student will:
 * Look for and express regularity in repeated reasoning
 * articulate asymptotic and standard notations as a growth of functions
 * Recognize and be able to respond to core debates surrounding the value of bringing new media technologies and participatory culture practices into the classroom [Jenkins]
+* Summarize a science-fiction cultural artifact.

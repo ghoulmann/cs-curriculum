@@ -37,6 +37,8 @@ The student will:
 * Explain how networks such as the Internet work
 * Understand how computers can monitor and control physical systems
 * Outline some of the ethical challenges which youth face in their roles as media producers and members of online communities [Jenkins]
+* Narrate the development of computing technology from vaccuum tubes through mainframes to parallel and cloud computing;
+* Articulate the relationships between science, technology, and science-fiction literature.
 
 *Level 5*
 
@@ -69,5 +71,5 @@ The student will:
 * detect and correct errors in algorithms and programs
 * Describe our current understanding of the connections between participatory culture and civic engagement, including the relationship between the digital divide and the participation gap [Jenkins]
 * Comprehend the framework of basic social skills and cultural skills associated with the new media literacies [Jenkins]
-
+* Reflect and respond to science-fiction literature addressing themes of technological utopias/dystopias, sentience, cybernetics and cyborgs, or cyberspace.
 
