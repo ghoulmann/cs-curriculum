@@ -49,6 +49,7 @@ The student will:
 * use at least two textual programming languages
 * identify and investigate forms and examples of new media as well as the theories that underlie and emerge from these forms [Bay]
 * Analyze science-fiction literature in terms of social and political issues and stakes.
+* Articulate and contextualize historical and contemporary contributions of nondominant cultures to the STEM fields.
 
 *Level 7*
 
