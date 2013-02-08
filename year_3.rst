@@ -49,7 +49,8 @@ The student will:
 * use at least two textual programming languages
 * identify and investigate forms and examples of new media as well as the theories that underlie and emerge from these forms [Bay]
 * Analyze science-fiction literature in terms of social and political issues and stakes.
-* Articulate and contextualize historical and contemporary contributions of nondominant cultures to the STEM fields.
+* Articulate and contextualize historical and contemporary contributions of nondominant cultures to the STEM fields;
+* Use and implement commonly used data structures.
 
 *Level 7*
 
@@ -70,6 +71,7 @@ The student will:
 * identify the elements of dynamic programming
 * Compose a social and political critique of a science fiction artifact.
 * Narrate the history and articulate the structure and functions of mass media
+* Develop and select appropriate algorithms and data structures to solve problems;
 
 
 
@@ -92,7 +94,6 @@ The student will:
 * reflect on the personal, social, economic, and ethical impacts of technology and technological change, and the implications for rights, responsibilities, and freedoms
 * Demonstrate familiarity with New Media theories and the process of mass communication
 * Apply digital media literacy strategies to use media to empower herself in [digital] participatory communities. [bemedialiterate.com]
-
 
 
 

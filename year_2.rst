@@ -26,7 +26,7 @@ The student will:
 * give instructions involving selection and repetition;
 * Interpret an algorithm and verbally predict an output;
 * present data in a structured format suitable for processing;
-* Design and implement solutions to problems by writing, running, and debugging computer programs (College Board)
+* Design and implement solutions to problems by writing, running, and debugging computer programs (visual, compiled, interpreted) [College Board]
 * Develop and select appropriate algorithms and data structures to solve problems (College Board)
 * Illustrate a process using a flowchart conventionally
 * Demonstrate the use of pseudocode
