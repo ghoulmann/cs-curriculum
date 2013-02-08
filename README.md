@@ -69,15 +69,7 @@ Work in Progress
 ----------------
 tools: python-sphinx, or pip install sphinx; also ReText is a steady rST editor - with preview mode).
 
-1/16: 
 
-* Feedback suggests learning objectives could be more concrete. Piloting example "artifacts of learning" in year 1.
-* Beginning curriculum mapping under domains in preface.
-
-1/15 (later): Linux+ exam objectives begin showing up, as do marks of raspberry pi specific procedure. No longer just CAS' work.
-
-1/15 (first commit): every part of this curriculum is either reworded or verbatim from http://www.computingatschool.org.uk/index.php?id=cacfs. It is copyright 2012 by Computing at School: This work is licensed under the Creative Commons Attribution-Non Commercial license;
-see http://creativecommons.org/licenses/by-nc/3.0/ for details.
 
 To Do
 ------
