@@ -40,6 +40,7 @@ The student will:
 * Narrate the development of computing technology from vaccuum tubes through mainframes to parallel and cloud computing;
 * Articulate the relationships between science, technology, and science-fiction literature.
 * Plan and develop a solution that relies on an API
+* Cultivate and practice a daily news habit to keep informed of current events in science, technology, engineering, mathematics [bemedialiterate.com]
 
 *Level 5*
 

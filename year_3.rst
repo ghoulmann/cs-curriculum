@@ -68,6 +68,7 @@ The student will:
 * Prepare a resume/CV with well-suited career objective and cover letter for a specific audience and purpose.
 * identify the elements of dynamic programming
 * Compose a social and political critique of a science fiction artifact.
+* Narrate the history and articulate the structure and functions of mass media
 
 
 
@@ -88,6 +89,8 @@ The student will:
 * Explain how instructions are executed within a computer system
 * explain how data of many types can be represented and manipulated in the form of binary digits
 * reflect on the personal, social, economic, and ethical impacts of technology and technological change, and the implications for rights, responsibilities, and freedoms
+* Demonstrate familiarity with New Media theories and the process of mass communication
+* Apply digital media literacy strategies to use media to empower herself in [digital] participatory communities. [bemedialiterate.com]
 
 
 
