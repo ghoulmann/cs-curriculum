@@ -51,6 +51,7 @@ The student will:
 * Analyze science-fiction literature in terms of social and political issues and stakes.
 * Articulate and contextualize historical and contemporary contributions of nondominant cultures to the STEM fields;
 * Use and implement commonly used data structures.
+* Demonstrate an understanding of digital circuits;
 
 *Level 7*
 
@@ -72,6 +73,7 @@ The student will:
 * Compose a social and political critique of a science fiction artifact.
 * Narrate the history and articulate the structure and functions of mass media
 * Develop and select appropriate algorithms and data structures to solve problems;
+* Explain the physical principals involved in electo-mechanical energy conversion and describe the contruction of electrical motors and generators;
 
 
 
