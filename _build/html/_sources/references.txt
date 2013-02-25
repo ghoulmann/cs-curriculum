@@ -19,4 +19,5 @@ Jenkins, Henry. New Media Literacies: A `Syllabus <http://henryjenkins.org/2009/
 
 Bay, Jennifer. *New Media* (`Purdue Syllabus <http://web.ics.purdue.edu/~jbay/680N/>`_ ). Web. 3 February 2013.
 
+College Board. *Computer Science A Course Description*
 
