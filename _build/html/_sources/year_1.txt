@@ -33,6 +33,7 @@ The student will:
 
 
 
+
 Learning Objectives
 -------------------
 
@@ -88,6 +89,20 @@ The student will:
 * Measure electricity and resistance
 * Handle and connect electronic components without overloading, damaging, or destroying them [Make:Electronics]
 * Read and understand a problem description, purpose, and goals [AP]
+* Explain the use of virtual machine technology to run multiple operating systems concurrently [Cengage *Parallel* 1];
+* Describe the hardware components of a personal computer system [Cengage *Parallel* 1];
+* Describe the peripheral components of a personal computer system
+* Contrast virtualization and emulation [Cengage *Parallel* 1];
+* Describe the preventative maintenance for a computer system [Cengage *Parallel* 1];
+* Enumerate common environmental threats to a computer system;
+* Connect and test a personal computer system  [Cengage *Parallel* 1].
+* Describe the historical milestones of GNU/Linux and Microsoft Windows [adapted from Cengage *Parallel* 2];
+* Describe the architecture of common PC operating systems [adapted from Cengage *Parallel* 2];
+* Describe the functions of an operating system  [adapted from Cengage *Parallel* 2].
+* Customize GUI desktops for a Microsoft operating system and a GNU/Linux distribution [adapted from Cengage *Parallel* 3];
+* Access data from a graphical user interface [adapted from Cengage *Parallel* 3];
+* Launch an application from a graphical user interface [adapted from Cengage *Parallel* 3];
+
 
 *Level 2*
 
