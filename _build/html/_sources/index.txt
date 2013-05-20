@@ -10,7 +10,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+	
+   cover	
    LICENSE
    heading
    collab

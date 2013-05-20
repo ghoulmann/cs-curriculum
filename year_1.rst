@@ -33,6 +33,7 @@ The student will:
 
 
 
+
 Learning Objectives
 -------------------
 
@@ -88,6 +89,23 @@ The student will:
 * Measure electricity and resistance
 * Handle and connect electronic components without overloading, damaging, or destroying them [Make:Electronics]
 * Read and understand a problem description, purpose, and goals [AP]
+* Explain the use of virtual machine technology to run multiple operating systems concurrently [Cengage *Parallel* 1];
+* Describe the hardware components of a personal computer system [Cengage *Parallel* 1];
+* Describe the peripheral components of a personal computer system
+* Contrast virtualization and emulation [Cengage *Parallel* 1];
+* Describe the preventative maintenance for a computer system [Cengage *Parallel* 1];
+* Enumerate common environmental threats to a computer system;
+* Connect and test a personal computer system  [Cengage *Parallel* 1].
+* Describe the historical milestones of GNU/Linux and Microsoft Windows [adapted from Cengage *Parallel* 2];
+* Describe the architecture of common PC operating systems [adapted from Cengage *Parallel* 2];
+* Identify the functions of an operating system  [adapted from Cengage *Parallel* 2];
+* Describe the interaction between an operating system and its components [Carswell, *Parallel* 2]
+* List popular productivity and system utility applications for GNU/Linux and Windows [adapted from Carswell *Parallel* 2];
+* Customize GUI desktops for a Microsoft operating system and a GNU/Linux distribution [adapted from Cengage *Parallel* 3];
+* Access data from a graphical user interface [adapted from Cengage *Parallel* 3];
+* Launch an application from a graphical user interface [adapted from Cengage *Parallel* 3];
+* Install and configure productivity applications and system utilities [adapted from Cengage *Parallel* 4];
+* Uninstall software.
 
 *Level 2*
 
@@ -128,6 +146,34 @@ The student will:
 * Identify how participatory cultures work to support the growth and contributions of their members [Jenkins]
 * Classify switches and relays [Make: Electronics]
 * Define capacitance [Make: Electronics]
+* Describe the characteristics of three Windows file systems [Carswell *Parallel* 5];
+* Describe the characteristics of four GNU/Linux file systems
+* Mount a file system in GNU/Linux and Windows [adapted from Carswell *Parallel* 5];
+* Manage file systems in Windows 7 and GNU/Linux [adapted from Carswell *Parallel* 5];
+* Describe directory structures [Carswell *Parallel* 6];
+* Display directory structures [Carswell *Parallel* 6];
+* Create, remove, and rename directories  [adapted from Carswell *Parallel* 6];
+* Use and recite file management commands;
+* Use removeable drives for the storage of data  [adapted from Carswell *Parallel* 6]
+* Describe the contents of files and identify associated applications [adapted from Carswell *Parallel* 7];
+* Display, interpret, and appy file attributes  [adapted from Carswell *Parallel* 7];
+* Fild files based on their names or content  [adapted from Carswell *Parallel* 7];
+* Understand the functions of common text editors [Carswell *Parallel* 8];
+* Work with multiple files in text editors [Carswell *Parallel* 8];
+* Demonstrate effective use of cut, copy, and paste commands [adapted from Carswell *Parallel* 8];
+* Search for character strings in documents [Carswell *Parallel* 8];
+* Search and replace character strings in documents [Carswell *Parallel* 8];
+* Describe the features of command-line interpreters [Carswell *Parallel* 9];
+* Use the command line to access help files for commands [adapted from Carswell *Parallel* 9];
+* Display the contents of files [Carswell *Parallel* 9];
+* Contrast available shell interpreters;
+* Create scripts to automate simple tasks [Carswell *Parallel* 9];
+* Manage tasks with task manager and process managers [adapted from Carswell *Parallel* 10];
+* Monitor and evaluate performance [adapted from Carswell *Parallel* 11];
+* Define and accurately use networking terminology [adapted from Carswell *Parallel* 12];
+* Display and interpret TCP/IP settings [Carswell *Parallel* 12];
+* Access network shares;
+* Display and determine folder and file-sharing permissions.
 
 *Level 3*
 
