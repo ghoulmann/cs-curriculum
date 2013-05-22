@@ -1,4 +1,5 @@
-Temporary Cover Image
-*********************
+Computing Curriculum
+********************
 
-.. image:: images/pulp.jpeg
+.. image:: /images/pulp.jpeg
+
