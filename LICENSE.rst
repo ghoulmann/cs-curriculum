@@ -1,6 +1,6 @@
 License
 =======
-.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+.. image:: images/88x31.png
    :scale: 100 %
    :alt: Creative Commons License
 
