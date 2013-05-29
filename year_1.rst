@@ -105,7 +105,19 @@ The student will:
 * Access data from a graphical user interface [adapted from Cengage *Parallel* 3];
 * Launch an application from a graphical user interface [adapted from Cengage *Parallel* 3];
 * Install and configure productivity applications and system utilities [adapted from Cengage *Parallel* 4];
-* Uninstall software.
+* Uninstall software;
+* Identify the unit for measuring current (Gates);
+* Draw the symbol used to represent current flow in a circuit (Gates);
+* Contrast conductors, insulators, and semiconductors (adapted from Gates);
+* Identify the characteristics of resistance in a circuit (Gates);
+* Identify the unit for measuring resistance;
+* Draw the symbol used to represent resistance in a circuit (Gates);
+* Draw the symbol used to represent voltage in a circuit (Gates);
+* Identify the unit used to measure voltage (Gates);
+* Contrast resistance and impedence;
+* Identify the unit used to measure current flow (Gates);
+* Describe how current flows in a circuit (Gates);
+* Identify commonly used prefixes for powers of ten (Gates).
 
 *Level 2*
 
@@ -206,3 +218,4 @@ The student will:
 * Recognize and be able to respond to core debates surrounding the value of bringing new media technologies and participatory culture practices into the classroom [Jenkins]
 * Summarize a science-fiction cultural artifact.
 * Transplant electronic components from a breadboard onto a perforated board [Make: Electronics]
+* Define the relationship of amperes, coulombs, and time through a formula (Gates);

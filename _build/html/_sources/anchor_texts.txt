@@ -40,6 +40,7 @@ Hardware and Electronic Engineering
 * *A+ Guide to Hardware* (Andrews)
 * *A+, Network+, Security+ Exams in a Nutshell* (O'Reilly Media)
 * *Technology and Engineering*
+* Gates, Earl. *Introduction to Electronics*. 6th ed.
 
 Raspberry Pi
 ------------

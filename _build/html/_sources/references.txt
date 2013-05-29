@@ -1,5 +1,7 @@
-References
-==========
+References and Resources
+========================
+
+Gates, Earl. *Introduction to Electronics*. 6th ed.
 
 Computing at School Working Group. `Computer Science: A Curriculum for Schools. <http://www.computingatschool.org.uk/index.php?id=cacfs>`_ (2012)
 
