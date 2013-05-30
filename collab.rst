@@ -1,5 +1,5 @@
 Collaborate
-===========
+***********
 
 This documentation was imagined as a product of collaboration. To facilitate collaboration, the most current draft is on github at https://github.com/ghoulmann/cs-curriculum (scroll down for the README and important information for collaborators).
 
@@ -7,8 +7,3 @@ Collaborating will involve making a github account, forking the repository, and 
 
 When you begin editing, please add your name to the LICENCE document so you receive the credit you will certainly deserve.
 
-Rik Goldman
-
-rgoldman@chelseaschool.edu
-
-@9_while_9 (Twitter)
