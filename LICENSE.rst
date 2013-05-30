@@ -1,6 +1,7 @@
 License
 =======
-.. image:: /images/cclicense.png
+
+.. image:: images/cclicense.png
    :scale: 100 %
    :alt: Creative Commons License
 

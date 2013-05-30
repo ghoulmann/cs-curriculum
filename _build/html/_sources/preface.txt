@@ -36,6 +36,9 @@ Values
 * Networked learning (Ito 74) [#]_ .
 
 .. image:: images/connected-learning.jpeg
+   :width: 800
+   :scale: 100
+   :alt: connected_learning
 
 Critical Consideration
 ======================
@@ -131,9 +134,6 @@ Throughout the program, the student will achieve objectives in nine domains.
 
 	* CompTIA Network+ and Security+ Learning objectives
 	* CCNA (Cisco) Learning Objectives
-
-
-
 
 .. [#] Connected learning is an approach to addressing inequity in education in ways geared to a networked society. It seeks to leverage the potential of digital media to expand access to learning that is socially embedded, interest-driven, and oriented toward educational, economic, or political opportunity. Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement. This model is based on evidence that the most resilient, adaptive, and effective learning involves individual interest as well as social support to overcome adversity and provide recognition (Ito). The approach knits together three crucial contexts for learning: interest-powered; peer-supported; academically oriented. In addition, it embraces these key design principles: production-centered; open networks; shared purpose. 
 
