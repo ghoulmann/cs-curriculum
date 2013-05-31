@@ -13,7 +13,6 @@ Contents:
 	
    cover	
    LICENSE
-   heading
    collab
    preface
    prep_sem

@@ -37,7 +37,7 @@ Values
 
 .. image:: images/connected-learning.jpeg
    :width: 800
-   :scale: 100
+   :scale: 200 %
    :alt: connected_learning
 
 Critical Consideration
