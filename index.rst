@@ -4,15 +4,15 @@
    contain the root `toctree` directive.
 
 Computing Curriculum
-===================================================================
+====================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 	
-   cover	
    LICENSE
+   cover
    collab
    preface
    prep_sem
