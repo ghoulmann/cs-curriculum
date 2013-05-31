@@ -98,5 +98,35 @@ Gates. *Introduction to Electronics*. 6th ed. (50)
 
 Placeholder
 
+Hardware Content Assumptions
+============================
+
+*Guide to Parallel Operating Systems*. Ron Carswell, Jiang and Freese.
+
+* Virtual machine technology allows multiple operating systems to run concurrently on a single PC.
+
+* Hardwares are the physical components of the PC system.
+
+* The case houses and protecte the main electronic components.
+
+* THe power supply is a sealed, metal box that contains power conversion hardware.
+
+* THe motherboard contains the microprocessor, bus, memory, and expansion slots.
+
+* The BUIS is firmware that suppports the PC duiring startup.
+
+* Video and sound expansion cars permit graphical and audio communication with the user.
+
+* Disk drive controllers allow the connection of hir drives and optical drives.
+* Communications with other devices is permitted by modems, network interface cards, and wireless adapters.
+
+* Peripherals include PC components that are connected externally to the PC.
+
+* Preventative maintenance is the responsibility of the PC's owner.
+
+* Many hazards can injure a PC user or damage the PC.
+
+
+
 .. index:: volt, ohm, resistance, power, electron, aperage, ampere, amp, AC, DC, circuits, multimeters, impedence, resistor, capactor, magnet, magnetism, watt, watts, 
 
