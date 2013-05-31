@@ -98,7 +98,7 @@ Gates. *Introduction to Electronics*. 6th ed. (50)
 
 Placeholder
 
-Hardware Content Assumptions
+Hardware Assumptions
 ============================
 
 *Guide to Parallel Operating Systems*. Ron Carswell, Jiang and Freese.

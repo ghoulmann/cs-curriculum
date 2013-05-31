@@ -21,7 +21,7 @@ Contents:
    year_2
    year_3
    year_4
-   ee_assumptions
+   content
    authentic
    anchor_texts
    inventory
