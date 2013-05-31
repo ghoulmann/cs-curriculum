@@ -22,6 +22,7 @@ Contents:
    year_3
    year_4
    ee_assumptions
+   hw_assumptions
    authentic
    anchor_texts
    inventory
