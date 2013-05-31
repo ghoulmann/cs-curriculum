@@ -21,6 +21,7 @@ Contents:
    year_2
    year_3
    year_4
+   ee_assumptions
    authentic
    anchor_texts
    inventory
@@ -30,6 +31,5 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

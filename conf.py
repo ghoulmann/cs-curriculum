@@ -286,7 +286,7 @@ epub_copyright = u'2013, Rik Goldman'
 
 # -- Options for PDF output --------------------------------------------------
 pdf_use_toc = True
-pdf_documents = [('index', u'cover', u'LICENSE', u'heading', u'collab', u'preface', u'prep_sem', u'year_1', u'year_2', u'year_3', u'year_4', u'anchor_texts', u'authentic', u'inventory', u'references'),
+pdf_documents = [('index', u'cover', u'LICENSE', u'heading', u'collab', u'preface', u'prep_sem', u'year_1', u'year_2', u'year_3', u'year_4', u'anchor_texts', u'ee_assumptions', u'authentic', u'inventory', u'references'),
 ]
 pdf_language = "en_US"
 pdf_use_index = False

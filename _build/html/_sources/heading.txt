@@ -1,7 +1,5 @@
-Advanced Information Systems
-============================
 Contact
--------
+*******
 `Rik Goldman <http://wiki.ubuntu.com/rikgoldman>`_
 
 Chair, Technology Department
