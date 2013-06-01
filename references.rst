@@ -1,5 +1,5 @@
-References and Resources
-========================
+Bibliography
+************
 
 Gates, Earl. *Introduction to Electronics*. 6th ed.
 

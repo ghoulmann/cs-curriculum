@@ -23,6 +23,7 @@ Contents:
    content
    authentic
    anchor_texts
+   indie
    inventory
    references
 

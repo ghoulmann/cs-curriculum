@@ -113,7 +113,7 @@ Hardware Assumptions
 
 * THe motherboard contains the microprocessor, bus, memory, and expansion slots.
 
-* The BUIS is firmware that suppports the PC duiring startup.
+* The BIOS is firmware that suppports the PC duiring startup.
 
 * Video and sound expansion cars permit graphical and audio communication with the user.
 
@@ -126,6 +126,82 @@ Hardware Assumptions
 
 * Many hazards can injure a PC user or damage the PC.
 
+Software Assumptions
+====================
+
+Software Fundamentals
+---------------------
+
+* Software provides instructions for hardware to follow.
+
+* The core of a PC's operating system is the kernel, which is where hardware is secured and application serviced (Carswell).
+
+* The OS manages resource by controllint the processory, memory, devices, storage, and user interface (Carswell).
+
+* Modern OSs support preemptive multitasking, multithreading, and virtual memory (Carswell).
+
+* The OS interacts with both hardware and applications (Carswell).
+
+* The OS works with different system utilities to perform various tasks (Carswell).
+
+* The GUI has many menus that you use to work with applications (Carswell).
+
+* Each OS provides a method for modifying the desktop (Carswell).
+
+* The OS and application software each provide help and support (Carswell).
+
+* The software installation routine depends on the OS (Carswell).
+
+File and File Systems
+---------------------
+
+* NTFS provised optins for journalizing, compression, encryption, security, auditing, and quotas (Carswell).
+
+* Windows 7 uses the Disk Management console to manage storage areas and assign them drive letters (Carswell).
+
+* Linux uses partiions on a hard drive to store informations (Carswell).
+
+* By convention, Linux refers to storage areas by name and partition number (Carswell).
+
+* Linux partitions are either automatically mounted at boot time or manually mounted as needed (Carswell).
+
+* How a drive is mounted depends on the operating system and configuration (Carswell).
+
+* The OS provides tools to manage file system tasks: reporting information about disk space usage, cleaning up temporary files, managing the disk space quota, and determining the firle type of the drive (Carswell).
+
+* Directory structures can organize and maintins information in files and folders (Carswell.
+
+* The organization of file of the directory structure is heirarchical.
+
+* Files can be copied, moved, renamed, or deleted from the GUI or CLI.
+
+* File content types vary.
+
+* Extensions or header information help determine file types.
+
+* File attributes provide information about a file's access privilieges.
+
+* Windows 7 file attributes are archive, read-only, hidden, compression, and encryption (Carswell).
+
+* OSs provide utilities to help locate files, including serch by type, kind, size, creation or modification date, or content.
+
+* File compression saves disk space by removing diblicated data in files.
+
+* Text editors may be used to create, modify, search, edit, and save files.
+
+* Text editor search features can be used to locate or replace information quickly.
+
+* Search-and-replace operations are especially powerful when used in conjunction with regular expressions and wildcards.
+
+Command Line Interfaces
+-----------------------
+
+* Command line can be used to performs tasks quickly and efficiently.
+
+* THe command interpreter is the part of an operating system that understand and executes commands entered by a human or as part of a program or script.
+* Environment varieables are strings that contain information and control the behavior of various programs (Carswell).
+* Each command interpreter offers methods for displaying and manipulating the contents of a file.
+* Scripts and batch command files can automate repetitive directory and file-management tasks.
 
 
 .. index:: volt, ohm, resistance, power, electron, aperage, ampere, amp, AC, DC, circuits, multimeters, impedence, resistor, capactor, magnet, magnetism, watt, watts, 
