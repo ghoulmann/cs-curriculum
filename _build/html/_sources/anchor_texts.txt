@@ -1,6 +1,5 @@
-============
 Anchor Texts
-============
+************
 
 Text-Based Computer Languages
 -----------------------------
