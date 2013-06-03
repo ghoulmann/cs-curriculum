@@ -11,9 +11,11 @@ To Do
 
 Revolution OS.
 
-Patent Absurdity
+Patent Absurdity.
 
-That one about Mozilla
+Code Rush.
+
+
 
 Badger, M., & McKearney, T. (2009). Scratch 1.4 beginner's guide: learn to program while creating interactive stories, games, and multimedia projects using Scratch. Birmingham, UK: Packt Pub.
 
