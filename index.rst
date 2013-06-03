@@ -6,7 +6,7 @@
 Computing Curriculum
 ====================
 
-Contents:
+.. Contents:
 
 .. toctree::
    :maxdepth: 2

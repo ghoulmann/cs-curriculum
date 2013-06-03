@@ -1,8 +1,13 @@
 Content Assumptions
 *******************
 
-Summary
-=======
+To Do
+=====
+
+* Cannibalize CAS
+* Eliminate redundancies
+* Match these assumtions to leveled objectives
+* Match leveled objectives to leveled (examples of) artifacts of learning.
 
 Electronics Assumptions
 =======================
@@ -129,6 +134,33 @@ Hardware Assumptions
 Software Assumptions
 ====================
 
+Programs
+--------
+
+Level 1
++++++++
+
+* Computers are controlled by sequences of instructions. (CAS)
+* A computer program is like the narrative part of a story, and the computer's job is to do what the narrator says; computers have no intelligense and they forrow the narrator's instructions blindly. (CAS)
+* Particular taks can be accomplished by creating a program for a computer; some computers allow their users to crete their own programs. (CAS)
+* Computers typically accept inputs, follow a stored seqquence of instructions, and produce outputs. (adapted from CAS)
+* Programs can include repeased instructions (CAS)
+
+Level 2
++++++++
+
+* Placeholder (CAS)
+
+Level 3
++++++++
+
+* placeholder (CAS)
+
+Level 4
++++++++
+
+* Placeholder (CAS)
+
 Software Fundamentals
 ---------------------
 
@@ -202,6 +234,68 @@ Command Line Interfaces
 * Environment varieables are strings that contain information and control the behavior of various programs (Carswell).
 * Each command interpreter offers methods for displaying and manipulating the contents of a file.
 * Scripts and batch command files can automate repetitive directory and file-management tasks.
+
+Algorithms
+==========
+
+Level 1
+-------
+
+* Algorithms are sets of instructions for achieving goals, made up of pre-defined steps. (CAS)
+* Algorithms can br represnted in siple formats [storyboards and narrative text]. (CAS)
+* Algorithms can describe everyday activities and can be followed by humand and by computers. (CAS)
+*  Computers need more precise instructions than computers do. (CAS)
+* Steps can be repeated. (CAS)
+* Some steps may be composed of smaller steps. (CAS)
+
+Level 2
+-------
+
+* Algorithms can be represented symbolically [flowcharts] or using instructions in a clearly defined language [turtle graphics]. (CAS)
+
+* Algorithms can include selection and repetition [if statements and loops]. (CAS)
+
+* Algorithms may be decompposed into component parts (procedures), each of whith itself contains an algorithm.
+
+* Algorithms should be stated without ambiguity and care and precision are necessary to avoid errors.
+
+* Algorithms are developed according to a plan and then tested; algorithms must be corrected if they fail these tests. (adapted from CAS)
+
+* It can be easier to plan, test, and correct parts of an algorithm separately. (CAS)
+
+Level 3
+-------
+
+* An algorithm is a sequence of precise steps to solve a given problem. (CAS)
+* A single problem may be solved by several different algorithms. (CAS)
+
+Level 4
+-------
+
+* The choice of an algorithm should be influenced by the data structure and data values that need to be manipulated. (CAS)
+
+* Key algorithms [sorting and searching] should be familiar. (adapted from CAS)
+
+* The design of algorithms inclused the avility to easily re-author, validdate, test, and correct the resulting code. (CAS)
+
+* Different algorithms may have different performance characteristics for the same task. (CAS)
+
+Data
+====
+
+Level 1
+-------
+
+Level 2
+-------
+
+Level 3
+-------
+
+Level 4
+-------
+
+
 
 
 .. index:: volt, ohm, resistance, power, electron, aperage, ampere, amp, AC, DC, circuits, multimeters, impedence, resistor, capactor, magnet, magnetism, watt, watts, 
