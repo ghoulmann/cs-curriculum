@@ -82,4 +82,14 @@ The student will:
 * Develop, write, debug, execute a program written in a compiled language;
 * Analyze passive electric circuits to predict their behavior;
 * Analyze active electronic circuits, such as amplifiers, to predict their behavior;
+* Design and write programs that accomplish specific goals, including controlling or simulating physical systems (Computing);
+* solve problems by decomposing them into smaller parts (Computing);
+* Use sequence, selection, and repetition in programs;
+* work with variables and various forms of input and output (Computing);
+* generate appropriate inputs and predicted outputs to test programs (Computing);
+* use logical reasoning to explain how a simple alogrithnm works and to detect and correct errors in algorithms and programs (Coputing);
+* understand computer networks including the Internet (Computing);
+* articulate the opportunities networks off for communication and collaboration (Computing);
+* describe how Internet search engines find and stor data; use search engines effectively; be discerning in evaluating digital content; respect individuals and intellectual property; use technology responsibly, securely, and safely (Computing);
+* select, use, and combine a variety of software on a range of digital devices to accomplish given goals, including collecting, analysing, evaluating, and presenting data and information (Computing).
 

@@ -219,3 +219,10 @@ The student will:
 * Summarize a science-fiction cultural artifact.
 * Transplant electronic components from a breadboard onto a perforated board [Make: Electronics]
 * Define the relationship of amperes, coulombs, and time through a formula (Gates);
+* Explain what algorithms are, how they are implemented as programs on digital devices, and that programs execute by by following a sequence of instruction (Computing);
+* Write and test simple programs (Computing);
+* demonstrate logical reasoning to predict the behavior of simple programs (Computing);
+* organize, store, manipulate, and retrieve data in a range of digital formates (Computing);
+* communicate safely and respectfully online (Computing);
+* keep personal information private (Computing);
+* articulate common uses of information technology beyond school (Computing).
