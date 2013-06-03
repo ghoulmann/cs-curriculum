@@ -106,30 +106,61 @@ Placeholder
 Hardware Assumptions
 ============================
 
-*Guide to Parallel Operating Systems*. Ron Carswell, Jiang and Freese.
+Computers
+---------
 
-* Virtual machine technology allows multiple operating systems to run concurrently on a single PC.
+Level 1
++++++++
 
-* Hardwares are the physical components of the PC system.
+* Computers are electronic devices useing stored sequences of instructions. (CAS)
+* Computers typically accept input and produce outputs. (CAS)
+* Many devices now contain computers. (CAS)
 
-* The case houses and protecte the main electronic components.
+Level 2
++++++++
 
-* THe power supply is a sealed, metal box that contains power conversion hardware.
+* Computers are devices for executing programs (Cas)
+* Application software is a computer program designed to perform user tasks. (CAS)
+* The operating system is a software that manages to relationship between the application software and hardware. (CAS)
+* Computers consist of a number of hardwared components, each with a specific role. (CAS)
+* Both the operating system and application software store data. (CAS)
+* A variety of operating systems and application software is typically available for the same hardware. (CAS)
+* Users can prevent or fix problems that occur with computers. (CAS)
+* Computers raise social and ethical issues in our lives and cultures. (CAS, adapted)
 
-* THe motherboard contains the microprocessor, bus, memory, and expansion slots.
+Level 3
++++++++
 
-* The BIOS is firmware that suppports the PC duiring startup.
+* COmputers are general purpose devices. (CAS)
+* Not every computer is obviously a computer. (CAS)
+* Computers are very fast, and are getting faster all the time (Moore's Law). (CAS)
+* Computers can pretend to do more than one thing at a time by between different things quickly. (CAS)
 
-* Video and sound expansion cars permit graphical and audio communication with the user.
+Components
+==========
 
-* Disk drive controllers allow the connection of hir drives and optical drives.
-* Communications with other devices is permitted by modems, network interface cards, and wireless adapters.
+* Virtual machine technology allows multiple operating systems to run concurrently on a single PC. 
 
-* Peripherals include PC components that are connected externally to the PC.
+* Hardwares are the physical components of the PC system. (Carswell)
 
-* Preventative maintenance is the responsibility of the PC's owner.
+* The case houses and protecte the main electronic components.(Carswell)
 
-* Many hazards can injure a PC user or damage the PC.
+* THe power supply is a sealed, metal box that contains power conversion hardware.(Carswell)
+
+* THe motherboard contains the microprocessor, bus, memory, and expansion slots.(Carswell)
+
+* The BIOS is firmware that suppports the PC duiring startup.(Carswell)
+
+* Video and sound expansion cars permit graphical and audio communication with the user. (Carswell)
+
+* Disk drive controllers allow the connection of hir drives and optical drives. (Carswell)
+* Communications with other devices is permitted by modems, network interface cards, and wireless adapters.(Carswell)
+
+* Peripherals include PC components that are connected externally to the PC. (Carswell)
+
+* Preventative maintenance is the responsibility of the PC's owner. (Carswell)
+
+* Many hazards can injure a PC user or damage the PC. (Carswell)
 
 Software Assumptions
 ====================
