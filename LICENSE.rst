@@ -1,6 +1,8 @@
 Copyright
 *********
 
+2013, Rik Goldman
+
 License
 =======
 
