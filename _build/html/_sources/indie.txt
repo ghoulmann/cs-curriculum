@@ -2,12 +2,15 @@ Enrichment
 **********
 
 To Do
------
+=====
 
 * Conventional title formatting (APA, arbitrary)
 * Maintain alpha org?
 * Tag as fiction, or catorize list otherwise?
 * Incorporate video
+
+Independent or Guided Reading
+=============================
 
 Revolution OS.
 
