@@ -51,8 +51,6 @@ beginners. Greenwich, Conn.: Manning.
 
 *Make: Electronics*.
 
-Computing at School Working Group. `Computer Science: A Curriculum for Schools. <http://www.computingatschool.org.uk/index.php?id=cacfs>`_ (2012)
-
 Popham, W. James. "Performance Assessment." *Classroom Assessment: What Teachers Need to Know*. 6th ed. 
 
 MSDE. *Maryland State STEM Standards of Practice Framework Instructional Guide Grades 9-12* (Draft)
