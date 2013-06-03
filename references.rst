@@ -8,6 +8,8 @@ To Do
 * Include IC3/A+/Strata content
 * From A to Z Shell
 
+Works Consulted
+===============
 
 AP Central - AP Computer Science A Course Home Page. (n.d.). AP Computer Science. Retrieved June 2, 2013, from http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/4483.html
 
