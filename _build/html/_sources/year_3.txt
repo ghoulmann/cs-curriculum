@@ -96,6 +96,23 @@ The student will:
 * reflect on the personal, social, economic, and ethical impacts of technology and technological change, and the implications for rights, responsibilities, and freedoms
 * Demonstrate familiarity with New Media theories and the process of mass communication
 * Apply digital media literacy strategies to use media to empower herself in [digital] participatory communities. [bemedialiterate.com]
+* design, use and evaluate computational abstractions that model the state and behavior of real-world problems and physical systems (Computing);
+* understand at least two key algorithms for each of sorting and searching;
+* demonstrate logical reasoning to evaluate and articulate the performance trade-offs of using alternaitve algorithms to solve the same problem (Computing);
+* use two or more programming languages, one of which is textural, each used to solve a variety of computational problems (Computing);
+* use data structures such as tables or arrays (Computing);
+* use procedures to write modular programs and articulate how each procedure is tested and works (Compting);
+* understand simple Boolean logic and its use in determining which parts of a program are executed (Computing);
+* use Boolean logic and wildcards in search of database queries (Computing);
+* appreciate how search engine results are selected and ranked (Computing);
+* understand the hardware and software componentns that make up networked computer systems, how they interact, and how they affect cost and performance;
+* explain how networks such as the internet work (Computing);
+* understnaad how computers can monitor and control physical systems (Computing);
+* explain how instructions are stored and executed within a computer system (Computing);
+* explain how data of various types can be represented and manipulated in the form of binary digits including numbers, text, sounds, and pictures, and be able to carry out some such manipulations by hand (Computing);
+* undertake creative projects that involve slecting, using, and combining multiple applications, pererably across a range of devices, to achieve challenging goals, inclusingin collecting and analysing data and meeting the needs of known users (Computing);
+* Create, reuse, revise, and repurpose digital information and content with attention to design, intellectual property, and audience (Computing).
+
 
 
 

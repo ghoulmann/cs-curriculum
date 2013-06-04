@@ -2,7 +2,7 @@
 Year 4
 ===========
 
-All participating students have the opportunity to take qualifications [1]_ in aspects of information technology and computer science which lead to progressio high levels of study or a professional career. Whether or not they take up this opportunity, participants will achieve the learning objectives below. (*Draft ICT Programme of Study*)
+All participating students have the opportunity to take qualifications [1]_ in aspects of information technology and computer science which lead to progressively higher levels of study or a professional career. Whether or not they take up this opportunity, participants will achieve the learning objectives below. (*Draft ICT Programme of Study*)
 
 Artifacts of Learning (examples)
 -----------------------------------
@@ -30,5 +30,7 @@ The student will:
 * Summarize and critique core theorists working in the field of New Media Literacy [Jenkins]
 * Propose/submit a professional conference paper, workshop, or presentation
 * Demonstrate digital media literacy skills to access, analyze, evaluate, and create digital content and social action strategies to engage and empower citizens in a diverse and participatory digital democracy.
+* develop capability, creativity and knowledge in computer science, digital media, and information technology (Computing); 
+* develop and apply their analytic, problem-solving, design, and computational thinking skills (Computing).
 
 .. [1] “Qualifications” means that participating students cannot merely be offered a token course leading to nothing of value.
