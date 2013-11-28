@@ -12,7 +12,6 @@ Computing Curriculum
    :maxdepth: 2
 	
    LICENSE
-   cover
    collab
    preface
    prep_sem
