@@ -36,8 +36,7 @@ Values
 * Networked learning (Ito 74) [#]_ .
 
 .. image:: images/connected-learning.jpeg
-   :width: 800
-   :scale: 200 %
+   :scale: 100 %
    :alt: connected_learning
 
 Critical Consideration
