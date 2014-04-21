@@ -13,26 +13,34 @@ Empower students to participate in the production of a intentionally designed, d
 
 A successful implementation ensures that all participating students
 
-* Are competent, confident, and creative users of information technology
-* Can critically evaluate and apply information technology (including new or unfamiliar technologies) responsibily, collaboratively, and effectively to solve problems
-* Can analyze problems in computational terms, and have repeated practical experience of writing computer programs in order to solve them
-* Can understand and apply the fundamental principles of computer science, including logic, algrorithms, data representation, and networks
-* Can critically articulate the individual, cultural, and societal impacts of digital technology and know how to stay safe, exploit opportunities, and manage risks (*Draft ICT Programme of Study*)
+* Are competent, confident, and creative users of information technology;
+* Can critically evaluate and apply information technology (including new or unfamiliar technologies) responsibily, collaboratively, and effectively to solve problems;
+* Can analyze problems in computational terms, and have repeated practical experience of writing computer programs in order to solve them;
+* Can understand and apply the fundamental principles of computer science, including logic, algrorithms, data representation, and networks;
+* Can critically articulate the individual, cultural, and societal impacts of digital technology and know how to stay safe, exploit opportunities, and manage risks (*Draft ICT Programme of Study*).
 
 Rationale
 =========
 
-This program encourages innovation, collaboration, and resourcefulness as it develops and requires logical thinking and precision. Students apply underlying principles to understand, manipulate real-world systems and to create purposeful and usable artifacts. Underlying principles, authentic practice, innovation, and invention make it both rigorous and creative. (*Draft ICT Programme of Study*)
+This program encourages innovation, collaboration, and resourcefulness as it develops and requires logical thinking and precision. Students apply underlying principles to understand and manipulate real-world systems and to create purposeful and usable artifacts. Underlying principles, authentic practice, innovation, and invention make it both rigorous and creative. (*Draft ICT Programme of Study*)
 
-Values
-======
+Guiding Values
+==============
+
 * Equity
+
 * Contructivist pedagogy
+
 * Literacy (reading and writing) across the curriculum
-* citizenship
+
+* Citizenship
+
 * Authentic learning and assessment [narrowly defined; distinguished from project & performance-based assessment]
+
 * Differentiated Instruction
+
 * Collaboration
+
 * Networked learning (Ito 74) [#]_ .
 
 .. image:: images/connected-learning.jpeg
@@ -41,14 +49,19 @@ Values
 
 Critical Consideration
 ======================
+
 * Underrepresentation of women in STEM fields
+
 * Access to resources
+
 * Reluctant readers and readers with language-based learning differences
 
 Assumptions
 ===========
 
-Computer Science and Electronics Engineering are STEM  disciplines (science, technology, engineering, math). Computer Science and Information Technology are complementary subjects (CAS 4).
+Computer Science and Electronics Engineering are STEM  disciplines (science, technology, engineering, math). 
+
+Computer Science and Information Technology are complementary subjects (CAS 4).
 
 As contrasted by the Computing at School Working Group in 2012,
 
@@ -75,64 +88,86 @@ This curriculum seeks to merge the boundaries of science, technology engineering
 
 Domains
 =======
+
 Throughout the program, the student will achieve objectives in nine domains.
 
-* Algorithms
-        The student will design, analyze, and evaluate algorithms to solve authentic problems.
-* Programs
-        The student will use the commands, statements, procedures, and conventions of a text-based interpreted language [Python] to independently and collaboratively plan, compose, debug, run, edit, and document software that addresses an authentic purpose for a user or community with something at stake.
-* Data
-        The student will classify, store, retrieve, manipulate, query data sources. (revise to match CAS)
-* Computers
-        The student will define the components of a computer system and articulate its architecture.
+Algorithms
+----------
+        
+The student will design, analyze, and evaluate algorithms to solve authentic problems.
+        
+Programs
+--------
+        
+The student will use the commands, statements, procedures, and conventions of a text-based interpreted language [Python] to independently and collaboratively plan, compose, debug, run, edit, and document software that addresses an authentic purpose for a user or community with something at stake.
 
-	Correlary Standards, Benchmarks, Objectives:
+Data
+----
+        
+The student will classify, store, retrieve, manipulate, query data sources. (revise to match CAS)
+        
+Computers
+---------
+        
+The student will define the components of a computer system and articulate its architecture.
 
-	* CompTIA (A+, Strata, Linux+ Powered by LPI) learning objectives; 
-	* Cisco IT Essentials learning objectives; 
-	* `McRel Benchmarks for Business Education (21 - 30) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=27>`_
+Correlary Standards, Benchmarks, Objectives:
 
-
-* Technology and Culture or Digital Literacy
-        The student will explore, interrogate, and hypothesize about causal relationships between technology and culture [to include public policy, values, economics]
-
- 	Correlary Standards, Benchmarks, Objectives:
-
-	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
-	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
-	* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
-	* `Common Core > English Language Arts Standards > Reading Literature > Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RL/9-10>`_
-	* `Common Core > English Language Arts Standards > Reading Literature > Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RL/11-12>`_
-	* New Media Literacies: A `Syllabus <http://henryjenkins.org/2009/08/new_media_literacies_-_a_syll.html>`_ (Henry Jenkins)
-	* Bay, Jennifer. New Media (Purdue Syllabus ). Web. 3 February 2013.
-
-* Electronic Engineering
-        The student will design, test, diagram, install, repair, and troubleshoot electronic systems and components.
-
-
-	Correlary Standards, Benchmarks, Objectives:
-
-	* `McRel Benchmarks for Engineering Education (Standards 1 - 4) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=28>`_
-	* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
-
-
-* Post-Secondary Transition Support
-        The student will explore and contrast post-secondary professional and academic opportunities.
-
-	Correlary Standards, Benchmarks, Objectives:
+* CompTIA (A+, Strata, Linux+ Powered by LPI) learning objectives; 
 	
-	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Reading
-	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Writing
-	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Listening
-	* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Language
+* Cisco IT Essentials learning objectives; 
+	
+* `McRel Benchmarks for Business Education (21 - 30) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=27>`_.
 
-* Networks
-	Understand ethernet and internet architecture and protocols; configure and administer network services for an authentic purpose. [placeholder]
 
-	Correlary Standards, Benchmarks, Objectives:
+Technology and Culture or Digital Literacy
+------------------------------------------
 
-	* CompTIA Network+ and Security+ Learning objectives
-	* CCNA (Cisco) Learning Objectives
+The student will explore, interrogate, and hypothesize about causal relationships between technology and culture [to include public policy, values, economics]
+
+Correlary Standards, Benchmarks, Objectives:
+
+* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
+* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RST/9-10>`_ 
+* Common Core > English Language Arts Standards > Science and Technical Subjects > `Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RST/11-12>`_
+* `Common Core > English Language Arts Standards > Reading Literature > Grades 9 & 10 <http://www.corestandards.org/ELA-Literacy/RL/9-10>`_
+* `Common Core > English Language Arts Standards > Reading Literature > Grades 11 & 12 <http://www.corestandards.org/ELA-Literacy/RL/11-12>`_
+* New Media Literacies: A `Syllabus <http://henryjenkins.org/2009/08/new_media_literacies_-_a_syll.html>`_ (Henry Jenkins)
+* Bay, Jennifer. New Media (Purdue Syllabus ). Web. 3 February 2013.
+
+Electronic Engineering
+----------------------
+
+The student will design, test, diagram, install, repair, and troubleshoot electronic systems and components.
+
+
+Correlary Standards, Benchmarks, Objectives:
+
+* `McRel Benchmarks for Engineering Education (Standards 1 - 4) <http://www2.mcrel.org/compendium/SubjectTopics.asp?SubjectID=28>`_
+* `MD (MSDE) Fundamentals of Technology Curriculum <http://mdk12.org/instruction/curriculum/technology_education/index.html>`_
+
+
+Post-Secondary Transition Support
+---------------------------------
+
+The student will explore and contrast post-secondary professional and academic opportunities.
+
+Correlary Standards, Benchmarks, Objectives:
+	
+* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Reading
+* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Writing
+* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Listening
+* `Common Core College and Career Readiness Standards <www.act.org/commoncore/pdf/FirstLook.pdf>`_ for Language
+
+Networks
+--------
+
+Understand ethernet and internet architecture and protocols; configure and administer network services for an authentic purpose. [placeholder]
+
+Correlary Standards, Benchmarks, Objectives:
+
+* CompTIA Network+ and Security+ Learning objectives
+* CCNA (Cisco) Learning Objectives
 
 .. [#] Connected learning is an approach to addressing inequity in education in ways geared to a networked society. It seeks to leverage the potential of digital media to expand access to learning that is socially embedded, interest-driven, and oriented toward educational, economic, or political opportunity. Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement. This model is based on evidence that the most resilient, adaptive, and effective learning involves individual interest as well as social support to overcome adversity and provide recognition (Ito). The approach knits together three crucial contexts for learning: interest-powered; peer-supported; academically oriented. In addition, it embraces these key design principles: production-centered; open networks; shared purpose. 
 
